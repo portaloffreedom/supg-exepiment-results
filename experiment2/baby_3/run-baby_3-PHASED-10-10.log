@@ -1,0 +1,4732 @@
+Launching all processes...
+Launching analyzer...
+Body analyzer ready
+Launching Gazebo...
+World plugin loaded.
+Launching experiment manager...
+Setting robot state update frequency to 5.
+Processing insert model request ID `74346874`.
+Model `gen__1` inserted, world now contains 2 models.
+ENV NEAT_POP_SIZE is: 10
+ENV NEAT_SEARCH_TYPE is: PHASED
+Setting up genetic search type to: NEAT::GeneticSearchType::PHASED
+ENV SUPG_MAX_EVALUATIONS is: 1000
+ENV SUPG_FREQUENCY_RATE is: 30
+ENV SUPG_CYCLE_LENGTH is: 5
+sensor->sensorId()
+sensor: Core__Core-imu_sensor(inputs: 6)
+END sensor->sensorId()
+ToL Robot loaded.
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 1 )
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 2 )
+Evaluating gait, fitness = 0.0399049
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 3 )
+Evaluating gait, fitness = 0.00754954
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 4 )
+Evaluating gait, fitness = 0.0417156
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 5 )
+Evaluating gait, fitness = 0.0540309
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 6 )
+Evaluating gait, fitness = 0.0507453
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 7 )
+Evaluating gait, fitness = 0.0110979
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 8 )
+Evaluating gait, fitness = 0.0190907
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 9 )
+Evaluating gait, fitness = 0.0101972
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 10 )
+Evaluating gait, fitness = 0.0158169
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 11 )
+Evaluating gait, fitness = 0.0297073
+Number of Species: 1
+Generation 1: overall_average = 0.00279856
+NEW POPULATION RECORD FITNESS: 0.0540309, delta=0.0540309 @ gen=1
+phase PRUNE @ gen 2
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 12 )
+Evaluating gait, fitness = 0.040478
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 13 )
+Evaluating gait, fitness = 0.0282051
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 14 )
+Evaluating gait, fitness = 0.00986772
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 15 )
+Evaluating gait, fitness = 0.0126115
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 16 )
+Evaluating gait, fitness = 0.0207651
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 17 )
+Evaluating gait, fitness = 0.0205445
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 18 )
+Evaluating gait, fitness = 0.0072469
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 19 )
+Evaluating gait, fitness = 0.040615
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 20 )
+Evaluating gait, fitness = 0.0554077
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 21 )
+Evaluating gait, fitness = 0.0239073
+Number of Species: 1
+Generation 2: overall_average = 0.00259649
+NEW POPULATION RECORD FITNESS: 0.0554077, delta=0.00137681 @ gen=2
+phase COMPLEXIFY @ gen 3
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 22 )
+Evaluating gait, fitness = 0.0561672
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 23 )
+Evaluating gait, fitness = 0.00900941
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 24 )
+Evaluating gait, fitness = 0.0591563
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 25 )
+Evaluating gait, fitness = 0.0436772
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 26 )
+Evaluating gait, fitness = 0.0416011
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 27 )
+Evaluating gait, fitness = 0.0371798
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 28 )
+Evaluating gait, fitness = 0.0595604
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 29 )
+Evaluating gait, fitness = 0.0320108
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 30 )
+Evaluating gait, fitness = 0.0304331
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 31 )
+Evaluating gait, fitness = 0.0740646
+Number of Species: 1
+Generation 3: overall_average = 0.0044286
+NEW POPULATION RECORD FITNESS: 0.0740646, delta=0.0186569 @ gen=3
+phase PRUNE @ gen 4
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 32 )
+Evaluating gait, fitness = 0.0157719
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 33 )
+Evaluating gait, fitness = 0.0691266
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 34 )
+Evaluating gait, fitness = 0.0196774
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 35 )
+Evaluating gait, fitness = 0.0496817
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 36 )
+Evaluating gait, fitness = 0.0219709
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 37 )
+Evaluating gait, fitness = 0.0203267
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 38 )
+Evaluating gait, fitness = 0.0521485
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 39 )
+Evaluating gait, fitness = 0.052733
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 40 )
+Evaluating gait, fitness = 0.0267573
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 41 )
+Evaluating gait, fitness = 0.00351557
+Number of Species: 1
+Generation 4: overall_average = 0.00331709
+1 generations since last population fitness record: 0.0740646
+phase COMPLEXIFY @ gen 5
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 42 )
+Evaluating gait, fitness = 0.0742942
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 43 )
+Evaluating gait, fitness = 0.0263952
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 44 )
+Evaluating gait, fitness = 0.0203682
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 45 )
+Evaluating gait, fitness = 0.0288916
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 46 )
+Evaluating gait, fitness = 0.0132155
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 47 )
+Evaluating gait, fitness = 0.00963591
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 48 )
+Evaluating gait, fitness = 0.00158848
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 49 )
+Evaluating gait, fitness = 0.0047928
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 50 )
+Evaluating gait, fitness = 0.0618106
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 51 )
+Evaluating gait, fitness = 0.0843376
+Number of Species: 1
+Generation 5: overall_average = 0.0032533
+NEW POPULATION RECORD FITNESS: 0.0843376, delta=0.010273 @ gen=5
+phase PRUNE @ gen 6
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 52 )
+Evaluating gait, fitness = 0.0502485
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 53 )
+Evaluating gait, fitness = 0.0874702
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 54 )
+Evaluating gait, fitness = 0.0301464
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 55 )
+Evaluating gait, fitness = 0.00719631
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 56 )
+Evaluating gait, fitness = 0.0734734
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 57 )
+Evaluating gait, fitness = 0.0503585
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 58 )
+Evaluating gait, fitness = 0.0301541
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 59 )
+Evaluating gait, fitness = 0.0868305
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 60 )
+Evaluating gait, fitness = 0.122617
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 61 )
+Evaluating gait, fitness = 0.0319438
+Number of Species: 1
+Generation 6: overall_average = 0.00570438
+NEW POPULATION RECORD FITNESS: 0.122617, delta=0.0382792 @ gen=6
+phase COMPLEXIFY @ gen 7
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 62 )
+Evaluating gait, fitness = 0.0723568
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 63 )
+Evaluating gait, fitness = 0.107363
+['/revolve/tol-revolve/scripts/matteo-test', '/revolve/tol-revolve/src/sdfbuilder', '/revolve/tol-revolve/src/pygazebo', '/revolve/tol-revolve/src/revolve', '/usr/lib/python2.7', '/usr/lib/python2.7/plat-x86_64-linux-gnu', '/usr/lib/python2.7/lib-tk', '/usr/lib/python2.7/lib-old', '/usr/lib/python2.7/lib-dynload', '/usr/local/lib/python2.7/dist-packages', '/usr/lib/python2.7/dist-packages', '/revolve/tol-revolve/scripts/matteo-test/../..']
+Robot fitness: 0.000000
+Robot fitness: 0.019877
+Robot fitness: 0.005914
+Robot fitness: 0.005673
+Robot fitness: 0.005313
+Robot fitness: 0.012098
+Robot fitness: 0.009033
+Robot fitness: 0.008471
+Robot fitness: 0.017001
+Robot fitness: 0.017714
+Robot fitness: 0.006490
+Robot fitness: 0.016443
+Robot fitness: 0.008468
+Robot fitness: 0.014544
+Robot fitness: 0.011859
+Robot fitness: 0.015652
+Robot fitness: 0.015601
+Robot fitness: 0.006414
+Robot fitness: 0.006295
+Robot fitness: 0.005718
+Robot fitness: 0.005995
+Robot fitness: 0.007107
+Robot fitness: 0.016539
+Robot fitness: 0.016391
+Robot fitness: 0.007678
+Robot fitness: 0.007249
+Robot fitness: 0.019627
+Robot fitness: 0.012868
+Robot fitness: 0.018413
+Robot fitness: 0.007526
+Robot fitness: 0.009448
+Robot fitness: 0.004830
+Robot fitness: 0.007964
+Robot fitness: 0.006795
+Robot fitness: 0.005861
+Robot fitness: 0.008122
+Robot fitness: 0.007538
+Robot fitness: 0.013045
+Robot fitness: 0.013631
+Robot fitness: 0.011545
+Robot fitness: 0.005513
+Robot fitness: 0.004555
+Robot fitness: 0.013304
+Robot fitness: 0.014196
+Robot fitness: 0.005738
+Robot fitness: 0.023870
+Robot fitness: 0.009998
+Robot fitness: 0.010498
+Robot fitness: 0.004687
+Robot fitness: 0.006297
+Robot fitness: 0.023384
+Robot fitness: 0.008388
+Robot fitness: 0.005512
+Robot fitness: 0.005197
+Robot fitness: 0.009060
+Robot fitness: 0.017969
+Robot fitness: 0.024934
+Robot fitness: 0.016027
+Robot fitness: 0.010282
+Robot fitness: 0.028432
+Robot fitness: 0.007545
+Robot fitness: 0.007376
+Robot fitness: 0.024226
+Robot fitness: 0.006753
+Robot fitness: 0.029729
+Robot fitness: 0.004820
+Robot fitness: 0.007791
+Robot fitness: 0.015229
+Robot fitness: 0.012650
+Robot fitness: 0.007702
+Robot fitness: 0.009966
+Robot fitness: 0.015134
+Robot fitness: 0.021698
+Robot fitness: 0.006932
+Robot fitness: 0.006625
+Robot fitness: 0.007461
+Robot fitness: 0.029079
+Robot fitness: 0.010358
+Robot fitness: 0.007200
+Robot fitness: 0.007372
+Robot fitness: 0.007386
+Robot fitness: 0.012029
+Robot fitness: 0.021171
+Robot fitness: 0.010026
+Robot fitness: 0.015979
+Robot fitness: 0.007347
+Robot fitness: 0.006954
+Robot fitness: 0.004996
+Robot fitness: 0.007729
+Robot fitness: 0.012309
+Robot fitness: 0.008356
+Robot fitness: 0.015190
+Robot fitness: 0.014536
+Robot fitness: 0.011141
+Robot fitness: 0.004524
+Robot fitness: 0.005061
+Robot fitness: 0.004323
+Robot fitness: 0.004964
+Robot fitness: 0.030968
+Robot fitness: 0.009706
+Robot fitness: 0.021122
+Robot fitness: 0.010005
+Robot fitness: 0.007186
+Robot fitness: 0.008199
+Robot fitness: 0.007958
+Robot fitness: 0.012422
+Robot fitness: 0.012644
+Robot fitness: 0.009040
+Robot fitness: 0.014374
+Robot fitness: 0.009835
+Robot fitness: 0.005265
+Robot fitness: 0.005297
+Robot fitness: 0.005110
+Robot fitness: 0.004426
+Robot fitness: 0.004881
+Robot fitness: 0.004713
+Robot fitness: 0.004934
+Robot fitness: 0.028103
+Robot fitness: 0.009036
+Robot fitness: 0.008169
+Robot fitness: 0.047548
+Robot fitness: 0.006753
+Robot fitness: 0.013847
+Robot fitness: 0.014438
+Robot fitness: 0.039711
+Robot fitness: 0.007857
+Robot fitness: 0.006755
+Robot fitness: 0.025308
+Robot fitness: 0.008833
+Robot fitness: 0.007648
+Robot fitness: 0.007778
+Robot fitness: 0.017625
+Robot fitness: 0.022172
+Robot fitness: 0.006748
+Robot fitness: 0.024486
+Robot fitness: 0.014992
+Robot fitness: 0.013407
+Robot fitness: 0.008922
+Robot fitness: 0.007678
+Robot fitness: 0.023184
+Robot fitness: 0.016246
+Robot fitness: 0.023349
+Robot fitness: 0.025917
+Robot fitness: 0.036999
+Robot fitness: 0.012975
+Robot fitness: 0.008652
+Robot fitness: 0.005928
+Robot fitness: 0.024339
+Robot fitness: 0.013504
+Robot fitness: 0.017939
+Robot fitness: 0.017048
+Robot fitness: 0.016506
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 64 )
+Evaluating gait, fitness = 0.0664944
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 65 )
+Evaluating gait, fitness = 0.0116735
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 66 )
+Evaluating gait, fitness = 0.0168646
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 67 )
+Evaluating gait, fitness = 0.0212393
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 68 )
+Evaluating gait, fitness = 0.0199636
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 69 )
+Evaluating gait, fitness = 0.0234462
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 70 )
+Evaluating gait, fitness = 0.00591748
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 71 )
+Evaluating gait, fitness = 0.0183258
+Number of Species: 1
+Generation 7: overall_average = 0.00363645
+1 generations since last population fitness record: 0.122617
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 72 )
+Evaluating gait, fitness = 0.0223432
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 73 )
+Evaluating gait, fitness = 0.00533291
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 74 )
+Evaluating gait, fitness = 0.0590172
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 75 )
+Evaluating gait, fitness = 0.109279
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 76 )
+Evaluating gait, fitness = 0.066163
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 77 )
+Evaluating gait, fitness = 0.0432055
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 78 )
+Evaluating gait, fitness = 0.057247
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 79 )
+Evaluating gait, fitness = 0.026584
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 80 )
+Evaluating gait, fitness = 0.0470082
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 81 )
+Evaluating gait, fitness = 0.0280025
+Number of Species: 1
+Generation 8: overall_average = 0.00464182
+2 generations since last population fitness record: 0.122617
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 82 )
+Evaluating gait, fitness = 0.080897
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 83 )
+Evaluating gait, fitness = 0.0589676
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 84 )
+Evaluating gait, fitness = 0.0348103
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 85 )
+Evaluating gait, fitness = 0.0176914
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 86 )
+Evaluating gait, fitness = 0.0125919
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 87 )
+Evaluating gait, fitness = 0.0133234
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 88 )
+Evaluating gait, fitness = 0.0113604
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 89 )
+Evaluating gait, fitness = 0.0308876
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 90 )
+Evaluating gait, fitness = 0.019325
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 91 )
+Evaluating gait, fitness = 0.115492
+Number of Species: 1
+Generation 9: overall_average = 0.00395347
+3 generations since last population fitness record: 0.122617
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 92 )
+Evaluating gait, fitness = 0.0405648
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 93 )
+Evaluating gait, fitness = 0.0675203
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 94 )
+Evaluating gait, fitness = 0.0149822
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 95 )
+Evaluating gait, fitness = 0.0153223
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 96 )
+Evaluating gait, fitness = 0.018398
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 97 )
+Evaluating gait, fitness = 0.053693
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 98 )
+Evaluating gait, fitness = 0.0685502
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 99 )
+Evaluating gait, fitness = 0.0168422
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 100 )
+Evaluating gait, fitness = 0.0161592
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 101 )
+Evaluating gait, fitness = 0.00705545
+Number of Species: 1
+Generation 10: overall_average = 0.00319088
+4 generations since last population fitness record: 0.122617
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 102 )
+Evaluating gait, fitness = 0.0171081
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 103 )
+Evaluating gait, fitness = 0.0303732
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 104 )
+Evaluating gait, fitness = 0.0256569
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 105 )
+Evaluating gait, fitness = 0.0603207
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 106 )
+Evaluating gait, fitness = 0.0342437
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 107 )
+Evaluating gait, fitness = 0.0551211
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 108 )
+Evaluating gait, fitness = 0.0622871
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 109 )
+Evaluating gait, fitness = 0.0185123
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 110 )
+Evaluating gait, fitness = 0.0189937
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 111 )
+Evaluating gait, fitness = 0.0900995
+Number of Species: 1
+Generation 11: overall_average = 0.00412716
+5 generations since last population fitness record: 0.122617
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 112 )
+Evaluating gait, fitness = 0.0771795
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 113 )
+Evaluating gait, fitness = 0.035657
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 114 )
+Evaluating gait, fitness = 0.0388247
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 115 )
+Evaluating gait, fitness = 0.0495359
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 116 )
+Evaluating gait, fitness = 0.0498692
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 117 )
+Evaluating gait, fitness = 0.0444276
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 118 )
+Evaluating gait, fitness = 0.0296296
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 119 )
+Evaluating gait, fitness = 0.036618
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 120 )
+Evaluating gait, fitness = 0.0637999
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 121 )
+Evaluating gait, fitness = 0.0196708
+Number of Species: 1
+Generation 12: overall_average = 0.00445212
+6 generations since last population fitness record: 0.122617
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 122 )
+Evaluating gait, fitness = 0.0687194
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 123 )
+Evaluating gait, fitness = 0.0345988
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 124 )
+Evaluating gait, fitness = 0.008932
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 125 )
+Evaluating gait, fitness = 0.0317771
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 126 )
+Evaluating gait, fitness = 0.0240989
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 127 )
+Evaluating gait, fitness = 0.00699035
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 128 )
+Evaluating gait, fitness = 0.0191771
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 129 )
+Evaluating gait, fitness = 0.0202596
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 130 )
+Evaluating gait, fitness = 0.0185121
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 131 )
+Evaluating gait, fitness = 0.0491871
+Number of Species: 1
+Generation 13: overall_average = 0.00282252
+7 generations since last population fitness record: 0.122617
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 132 )
+Evaluating gait, fitness = 0.0318884
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 133 )
+Evaluating gait, fitness = 0.105303
+Robot fitness: 0.007552
+Robot fitness: 0.007683
+Robot fitness: 0.006091
+Robot fitness: 0.006134
+Robot fitness: 0.006503
+Robot fitness: 0.006831
+Robot fitness: 0.007774
+Robot fitness: 0.007624
+Robot fitness: 0.007540
+Robot fitness: 0.007421
+Robot fitness: 0.007400
+Robot fitness: 0.009244
+Robot fitness: 0.012413
+Robot fitness: 0.014195
+Robot fitness: 0.007400
+Robot fitness: 0.007004
+Robot fitness: 0.007170
+Robot fitness: 0.007197
+Robot fitness: 0.007315
+Robot fitness: 0.007842
+Robot fitness: 0.007770
+Robot fitness: 0.013049
+Robot fitness: 0.013253
+Robot fitness: 0.033110
+Robot fitness: 0.007413
+Robot fitness: 0.007099
+Robot fitness: 0.021285
+Robot fitness: 0.022534
+Robot fitness: 0.014956
+Robot fitness: 0.019474
+Robot fitness: 0.022297
+Robot fitness: 0.010134
+Robot fitness: 0.007334
+Robot fitness: 0.028599
+Robot fitness: 0.004465
+Robot fitness: 0.010347
+Robot fitness: 0.008089
+Robot fitness: 0.008296
+Robot fitness: 0.020486
+Robot fitness: 0.008427
+Robot fitness: 0.008488
+Robot fitness: 0.009238
+Robot fitness: 0.015483
+Robot fitness: 0.021207
+Robot fitness: 0.027235
+Robot fitness: 0.022101
+Robot fitness: 0.007436
+Robot fitness: 0.016599
+Robot fitness: 0.012796
+Robot fitness: 0.006174
+Robot fitness: 0.006487
+Robot fitness: 0.007469
+Robot fitness: 0.006452
+Robot fitness: 0.008385
+Robot fitness: 0.008631
+Robot fitness: 0.005304
+Robot fitness: 0.007025
+Robot fitness: 0.005833
+Robot fitness: 0.007020
+Robot fitness: 0.018045
+Robot fitness: 0.012193
+Robot fitness: 0.005199
+Robot fitness: 0.007461
+Robot fitness: 0.006814
+Robot fitness: 0.014065
+Robot fitness: 0.024948
+Robot fitness: 0.031632
+Robot fitness: 0.016335
+Robot fitness: 0.009762
+Robot fitness: 0.036306
+Robot fitness: 0.006799
+Robot fitness: 0.006496
+Robot fitness: 0.006712
+Robot fitness: 0.006289
+Robot fitness: 0.006536
+Robot fitness: 0.006838
+Robot fitness: 0.012433
+Robot fitness: 0.014535
+Robot fitness: 0.006350
+Robot fitness: 0.024545
+Robot fitness: 0.014360
+Robot fitness: 0.032939
+Robot fitness: 0.007135
+Robot fitness: 0.006775
+Robot fitness: 0.007084
+Robot fitness: 0.006822
+Robot fitness: 0.009209
+Robot fitness: 0.013133
+Robot fitness: 0.008138
+Robot fitness: 0.008894
+Robot fitness: 0.007393
+Robot fitness: 0.007060
+Robot fitness: 0.006930
+Robot fitness: 0.020587
+Robot fitness: 0.014293
+Robot fitness: 0.011511
+Robot fitness: 0.013707
+Robot fitness: 0.005490
+Robot fitness: 0.014818
+Robot fitness: 0.013076
+Robot fitness: 0.013850
+Robot fitness: 0.018718
+Robot fitness: 0.004456
+Robot fitness: 0.007826
+Robot fitness: 0.010571
+Robot fitness: 0.022891
+Robot fitness: 0.012850
+Robot fitness: 0.007491
+Robot fitness: 0.007123
+Robot fitness: 0.007129
+Robot fitness: 0.007211
+Robot fitness: 0.007237
+Robot fitness: 0.007239
+Robot fitness: 0.029687
+Robot fitness: 0.021373
+Robot fitness: 0.016937
+Robot fitness: 0.015003
+Robot fitness: 0.013171
+Robot fitness: 0.010293
+Robot fitness: 0.010029
+Robot fitness: 0.013579
+Robot fitness: 0.011689
+Robot fitness: 0.009312
+Robot fitness: 0.016594
+Robot fitness: 0.009928
+Robot fitness: 0.031189
+Robot fitness: 0.015326
+Robot fitness: 0.019823
+Robot fitness: 0.005689
+Robot fitness: 0.007348
+Robot fitness: 0.018919
+Robot fitness: 0.011509
+Robot fitness: 0.012324
+Robot fitness: 0.010480
+Robot fitness: 0.010249
+Robot fitness: 0.028993
+Robot fitness: 0.007301
+Robot fitness: 0.007206
+Robot fitness: 0.007464
+Robot fitness: 0.011450
+Robot fitness: 0.022951
+Robot fitness: 0.014963
+Robot fitness: 0.021231
+Robot fitness: 0.004663
+Robot fitness: 0.014091
+Robot fitness: 0.009585
+Robot fitness: 0.009043
+Robot fitness: 0.008939
+Robot fitness: 0.009603
+Robot fitness: 0.016024
+Robot fitness: 0.004838
+Robot fitness: 0.005867
+Robot fitness: 0.006284
+Robot fitness: 0.007184
+Robot fitness: 0.007532
+Robot fitness: 0.007554
+Robot fitness: 0.006898
+Robot fitness: 0.007600
+Robot fitness: 0.007424
+Robot fitness: 0.007396
+Robot fitness: 0.007330
+Robot fitness: 0.007380
+Robot fitness: 0.014335
+Robot fitness: 0.015789
+Robot fitness: 0.015205
+Robot fitness: 0.015775
+Robot fitness: 0.023413
+Robot fitness: 0.024467
+Robot fitness: 0.017448
+Robot fitness: 0.008350
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 134 )
+Evaluating gait, fitness = 0.00577054
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 135 )
+Evaluating gait, fitness = 0.0127888
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 136 )
+Evaluating gait, fitness = 0.0554375
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 137 )
+Evaluating gait, fitness = 0.0546264
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 138 )
+Evaluating gait, fitness = 0.0154209
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 139 )
+Evaluating gait, fitness = 0.0139662
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 140 )
+Evaluating gait, fitness = 0.0168771
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 141 )
+Evaluating gait, fitness = 0.0161695
+Number of Species: 2
+Generation 14: overall_average = 0.00416015
+8 generations since last population fitness record: 0.122617
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 142 )
+Evaluating gait, fitness = 0.0696162
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 143 )
+Evaluating gait, fitness = 0.10458
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 144 )
+Evaluating gait, fitness = 0.0308519
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 145 )
+Evaluating gait, fitness = 0.0278172
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 146 )
+Evaluating gait, fitness = 0.0374041
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 147 )
+Evaluating gait, fitness = 0.0521442
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 148 )
+Evaluating gait, fitness = 0.0147664
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 149 )
+Evaluating gait, fitness = 0.0154048
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 150 )
+Evaluating gait, fitness = 0.0165561
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 151 )
+Evaluating gait, fitness = 0.0164722
+Number of Species: 2
+Generation 15: overall_average = 0.00574878
+9 generations since last population fitness record: 0.122617
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 152 )
+Evaluating gait, fitness = 0.0532572
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 153 )
+Evaluating gait, fitness = 0.0410989
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 154 )
+Evaluating gait, fitness = 0.0187285
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 155 )
+Evaluating gait, fitness = 0.0184614
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 156 )
+Evaluating gait, fitness = 0.0147128
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 157 )
+Evaluating gait, fitness = 0.00720631
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 158 )
+Evaluating gait, fitness = 0.0541596
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 159 )
+Evaluating gait, fitness = 0.0503395
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 160 )
+Evaluating gait, fitness = 0.0168886
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 161 )
+Evaluating gait, fitness = 0.0154144
+Number of Species: 2
+Generation 16: overall_average = 0.0048397
+10 generations since last population fitness record: 0.122617
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 162 )
+Evaluating gait, fitness = 0.061818
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 163 )
+Evaluating gait, fitness = 0.0233769
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 164 )
+Evaluating gait, fitness = 0.0176814
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 165 )
+Evaluating gait, fitness = 0.0145152
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 166 )
+Evaluating gait, fitness = 0.0665192
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 167 )
+Evaluating gait, fitness = 0.0307253
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 168 )
+Evaluating gait, fitness = 0.0163878
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 169 )
+Evaluating gait, fitness = 0.0449031
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 170 )
+Evaluating gait, fitness = 0.016828
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 171 )
+Evaluating gait, fitness = 0.015764
+Number of Species: 2
+Generation 17: overall_average = 0.00592434
+11 generations since last population fitness record: 0.122617
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 172 )
+Evaluating gait, fitness = 0.0500309
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 173 )
+Evaluating gait, fitness = 0.0279964
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 174 )
+Evaluating gait, fitness = 0.0864367
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 175 )
+Evaluating gait, fitness = 0.0857498
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 176 )
+Evaluating gait, fitness = 0.051905
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 177 )
+Evaluating gait, fitness = 0.0185037
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 178 )
+Evaluating gait, fitness = 0.0639685
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 179 )
+Evaluating gait, fitness = 0.0200036
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 180 )
+Evaluating gait, fitness = 0.0617371
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 181 )
+Evaluating gait, fitness = 0.00955343
+Number of Species: 2
+Generation 18: overall_average = 0.00853729
+12 generations since last population fitness record: 0.122617
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 182 )
+Evaluating gait, fitness = 0.0713306
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 183 )
+Evaluating gait, fitness = 0.119276
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 184 )
+Evaluating gait, fitness = 0.0828548
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 185 )
+Evaluating gait, fitness = 0.098389
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 186 )
+Evaluating gait, fitness = 0.0427658
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 187 )
+Evaluating gait, fitness = 0.0728366
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 188 )
+Evaluating gait, fitness = 0.027459
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 189 )
+Evaluating gait, fitness = 0.0144238
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 190 )
+Evaluating gait, fitness = 0.0307111
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 191 )
+Evaluating gait, fitness = 0.0569024
+Number of Species: 2
+Generation 19: overall_average = 0.0113616
+13 generations since last population fitness record: 0.122617
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 192 )
+Evaluating gait, fitness = 0.100078
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 193 )
+Evaluating gait, fitness = 0.0540493
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 194 )
+Evaluating gait, fitness = 0.0726318
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 195 )
+Evaluating gait, fitness = 0.0591703
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 196 )
+Evaluating gait, fitness = 0.0956824
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 197 )
+Evaluating gait, fitness = 0.0595984
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 198 )
+Evaluating gait, fitness = 0.0775249
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 199 )
+Evaluating gait, fitness = 0.0894697
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 200 )
+Evaluating gait, fitness = 0.0460374
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 201 )
+Evaluating gait, fitness = 0.0256582
+Number of Species: 2
+Generation 20: overall_average = 0.0036608
+14 generations since last population fitness record: 0.122617
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 202 )
+Evaluating gait, fitness = 0.0518791
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 203 )
+Evaluating gait, fitness = 0.0253669
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 204 )
+Evaluating gait, fitness = 0.0102173
+Robot fitness: 0.004533
+Robot fitness: 0.008897
+Robot fitness: 0.004130
+Robot fitness: 0.004599
+Robot fitness: 0.019530
+Robot fitness: 0.012390
+Robot fitness: 0.021451
+Robot fitness: 0.010387
+Robot fitness: 0.006698
+Robot fitness: 0.006772
+Robot fitness: 0.006879
+Robot fitness: 0.006477
+Robot fitness: 0.010564
+Robot fitness: 0.009114
+Robot fitness: 0.013547
+Robot fitness: 0.006799
+Robot fitness: 0.006947
+Robot fitness: 0.007027
+Robot fitness: 0.019346
+Robot fitness: 0.020268
+Robot fitness: 0.026393
+Robot fitness: 0.029209
+Robot fitness: 0.014752
+Robot fitness: 0.020510
+Robot fitness: 0.006740
+Robot fitness: 0.012346
+Robot fitness: 0.021966
+Robot fitness: 0.012078
+Robot fitness: 0.021626
+Robot fitness: 0.006863
+Robot fitness: 0.025073
+Robot fitness: 0.016385
+Robot fitness: 0.006381
+Robot fitness: 0.006192
+Robot fitness: 0.006275
+Robot fitness: 0.006631
+Robot fitness: 0.006640
+Robot fitness: 0.006651
+Robot fitness: 0.006825
+Robot fitness: 0.006531
+Robot fitness: 0.006999
+Robot fitness: 0.006506
+Robot fitness: 0.006795
+Robot fitness: 0.016192
+Robot fitness: 0.011116
+Robot fitness: 0.012410
+Robot fitness: 0.016837
+Robot fitness: 0.021130
+Robot fitness: 0.010527
+Robot fitness: 0.006543
+Robot fitness: 0.006717
+Robot fitness: 0.007134
+Robot fitness: 0.006919
+Robot fitness: 0.007684
+Robot fitness: 0.010332
+Robot fitness: 0.012550
+Robot fitness: 0.007658
+Robot fitness: 0.007049
+Robot fitness: 0.021276
+Robot fitness: 0.009987
+Robot fitness: 0.030977
+Robot fitness: 0.006847
+Robot fitness: 0.006982
+Robot fitness: 0.006778
+Robot fitness: 0.006829
+Robot fitness: 0.007082
+Robot fitness: 0.006646
+Robot fitness: 0.019992
+Robot fitness: 0.016080
+Robot fitness: 0.023760
+Robot fitness: 0.011996
+Robot fitness: 0.010812
+Robot fitness: 0.013577
+Robot fitness: 0.009686
+Robot fitness: 0.006473
+Robot fitness: 0.006536
+Robot fitness: 0.006502
+Robot fitness: 0.017740
+Robot fitness: 0.025675
+Robot fitness: 0.021516
+Robot fitness: 0.011754
+Robot fitness: 0.006063
+Robot fitness: 0.006881
+Robot fitness: 0.006851
+Robot fitness: 0.018899
+Robot fitness: 0.009589
+Robot fitness: 0.007781
+Robot fitness: 0.010161
+Robot fitness: 0.006916
+Robot fitness: 0.006695
+Robot fitness: 0.006788
+Robot fitness: 0.006744
+Robot fitness: 0.019889
+Robot fitness: 0.019411
+Robot fitness: 0.018272
+Robot fitness: 0.005488
+Robot fitness: 0.007411
+Robot fitness: 0.011791
+Robot fitness: 0.027895
+Robot fitness: 0.017838
+Robot fitness: 0.012071
+Robot fitness: 0.026030
+Robot fitness: 0.007616
+Robot fitness: 0.007529
+Robot fitness: 0.007170
+Robot fitness: 0.007027
+Robot fitness: 0.021188
+Robot fitness: 0.017450
+Robot fitness: 0.013800
+Robot fitness: 0.010208
+Robot fitness: 0.007291
+Robot fitness: 0.009062
+Robot fitness: 0.018704
+Robot fitness: 0.015357
+Robot fitness: 0.012618
+Robot fitness: 0.006208
+Robot fitness: 0.007630
+Robot fitness: 0.015785
+Robot fitness: 0.021672
+Robot fitness: 0.022435
+Robot fitness: 0.025847
+Robot fitness: 0.018454
+Robot fitness: 0.018914
+Robot fitness: 0.018502
+Robot fitness: 0.025337
+Robot fitness: 0.015848
+Robot fitness: 0.008808
+Robot fitness: 0.009976
+Robot fitness: 0.016479
+Robot fitness: 0.031133
+Robot fitness: 0.015728
+Robot fitness: 0.008445
+Robot fitness: 0.008790
+Robot fitness: 0.013836
+Robot fitness: 0.006495
+Robot fitness: 0.016432
+Robot fitness: 0.011552
+Robot fitness: 0.011278
+Robot fitness: 0.012488
+Robot fitness: 0.015319
+Robot fitness: 0.018347
+Robot fitness: 0.021044
+Robot fitness: 0.035113
+Robot fitness: 0.007708
+Robot fitness: 0.007255
+Robot fitness: 0.014353
+Robot fitness: 0.015783
+Robot fitness: 0.034150
+Robot fitness: 0.013416
+Robot fitness: 0.008692
+Robot fitness: 0.032469
+Robot fitness: 0.009551
+Robot fitness: 0.020239
+Robot fitness: 0.033812
+Robot fitness: 0.014950
+Robot fitness: 0.007364
+Robot fitness: 0.007471
+Robot fitness: 0.027504
+Robot fitness: 0.021466
+Robot fitness: 0.011393
+Robot fitness: 0.018265
+Robot fitness: 0.009140
+Robot fitness: 0.017945
+Robot fitness: 0.012803
+Robot fitness: 0.012561
+Robot fitness: 0.007984
+Robot fitness: 0.006231
+Robot fitness: 0.005798
+Robot fitness: 0.025216
+Robot fitness: 0.017465
+Robot fitness: 0.047017
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 205 )
+Evaluating gait, fitness = 0.0896239
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 206 )
+Evaluating gait, fitness = 0.0187214
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 207 )
+Evaluating gait, fitness = 0.0188315
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 208 )
+Evaluating gait, fitness = 0.0178196
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 209 )
+Evaluating gait, fitness = 0.0179191
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 210 )
+Evaluating gait, fitness = 0.0396055
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 211 )
+Evaluating gait, fitness = 0.0331831
+Number of Species: 1
+Generation 21: overall_average = 0.00323167
+15 generations since last population fitness record: 0.122617
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 212 )
+Evaluating gait, fitness = 0.0996542
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 213 )
+Evaluating gait, fitness = 0.0184484
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 214 )
+Evaluating gait, fitness = 0.0507477
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 215 )
+Evaluating gait, fitness = 0.0537574
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 216 )
+Evaluating gait, fitness = 0.078006
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 217 )
+Evaluating gait, fitness = 0.0531648
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 218 )
+Evaluating gait, fitness = 0.0133847
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 219 )
+Evaluating gait, fitness = 0.063661
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 220 )
+Evaluating gait, fitness = 0.095661
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 221 )
+Evaluating gait, fitness = 0.055082
+Number of Species: 1
+Generation 22: overall_average = 0.00581567
+16 generations since last population fitness record: 0.122617
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 222 )
+Evaluating gait, fitness = 0.0680318
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 223 )
+Evaluating gait, fitness = 0.0218611
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 224 )
+Evaluating gait, fitness = 0.036976
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 225 )
+Evaluating gait, fitness = 0.077333
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 226 )
+Evaluating gait, fitness = 0.0191439
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 227 )
+Evaluating gait, fitness = 0.034638
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 228 )
+Evaluating gait, fitness = 0.0798957
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 229 )
+Evaluating gait, fitness = 0.105341
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 230 )
+Evaluating gait, fitness = 0.0500744
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 231 )
+Evaluating gait, fitness = 0.0630247
+Number of Species: 1
+Generation 23: overall_average = 0.00556319
+17 generations since last population fitness record: 0.122617
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 232 )
+Evaluating gait, fitness = 0.0855363
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 233 )
+Evaluating gait, fitness = 0.02693
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 234 )
+Evaluating gait, fitness = 0.0276678
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 235 )
+Evaluating gait, fitness = 0.0087846
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 236 )
+Evaluating gait, fitness = 0.0828926
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 237 )
+Evaluating gait, fitness = 0.0012054
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 238 )
+Evaluating gait, fitness = 0.0500228
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 239 )
+Evaluating gait, fitness = 0.0106026
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 240 )
+Evaluating gait, fitness = 0.0725747
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 241 )
+Evaluating gait, fitness = 0.0186793
+Number of Species: 1
+Generation 24: overall_average = 0.00384896
+18 generations since last population fitness record: 0.122617
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 242 )
+Evaluating gait, fitness = 0.112134
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 243 )
+Evaluating gait, fitness = 0.05775
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 244 )
+Evaluating gait, fitness = 0.0168618
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 245 )
+Evaluating gait, fitness = 0.0264757
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 246 )
+Evaluating gait, fitness = 0.0769527
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 247 )
+Evaluating gait, fitness = 0.0248103
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 248 )
+Evaluating gait, fitness = 0.0153833
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 249 )
+Evaluating gait, fitness = 0.016136
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 250 )
+Evaluating gait, fitness = 0.0771993
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 251 )
+Evaluating gait, fitness = 0.0610209
+Number of Species: 1
+Generation 25: overall_average = 0.00484724
+19 generations since last population fitness record: 0.122617
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 252 )
+Evaluating gait, fitness = 0.0486365
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 253 )
+Evaluating gait, fitness = 0.0458701
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 254 )
+Evaluating gait, fitness = 0.0744858
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 255 )
+Evaluating gait, fitness = 0.0807609
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 256 )
+Evaluating gait, fitness = 0.0615411
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 257 )
+Evaluating gait, fitness = 0.0320103
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 258 )
+Evaluating gait, fitness = 0.00924096
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 259 )
+Evaluating gait, fitness = 0.0502652
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 260 )
+Evaluating gait, fitness = 0.0295084
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 261 )
+Evaluating gait, fitness = 0.0610085
+Number of Species: 1
+Generation 26: overall_average = 0.00493328
+20 generations since last population fitness record: 0.122617
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 262 )
+Evaluating gait, fitness = 0.0718024
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 263 )
+Evaluating gait, fitness = 0.0562304
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 264 )
+Evaluating gait, fitness = 0.0477746
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 265 )
+Evaluating gait, fitness = 0.0537336
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 266 )
+Evaluating gait, fitness = 0.0578918
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 267 )
+Evaluating gait, fitness = 0.0663505
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 268 )
+Evaluating gait, fitness = 0.120367
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 269 )
+Evaluating gait, fitness = 0.0191868
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 270 )
+Evaluating gait, fitness = 0.0682329
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 271 )
+Evaluating gait, fitness = 0.052299
+Number of Species: 1
+Generation 27: overall_average = 0.00613869
+1 generations since last population fitness record: 0.122617
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 272 )
+Evaluating gait, fitness = 0.144197
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 273 )
+Evaluating gait, fitness = 0.0751953
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 274 )
+Evaluating gait, fitness = 0.0192281
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 275 )
+Evaluating gait, fitness = 0.0308692
+Robot fitness: 0.012631
+Robot fitness: 0.007102
+Robot fitness: 0.007318
+Robot fitness: 0.007121
+Robot fitness: 0.007589
+Robot fitness: 0.007421
+Robot fitness: 0.007196
+Robot fitness: 0.007110
+Robot fitness: 0.006961
+Robot fitness: 0.007150
+Robot fitness: 0.007132
+Robot fitness: 0.007052
+Robot fitness: 0.020974
+Robot fitness: 0.005240
+Robot fitness: 0.017243
+Robot fitness: 0.013110
+Robot fitness: 0.037199
+Robot fitness: 0.012659
+Robot fitness: 0.007462
+Robot fitness: 0.007273
+Robot fitness: 0.007127
+Robot fitness: 0.032259
+Robot fitness: 0.006271
+Robot fitness: 0.011834
+Robot fitness: 0.028778
+Robot fitness: 0.006972
+Robot fitness: 0.024143
+Robot fitness: 0.013290
+Robot fitness: 0.012636
+Robot fitness: 0.016535
+Robot fitness: 0.006387
+Robot fitness: 0.007527
+Robot fitness: 0.008360
+Robot fitness: 0.011666
+Robot fitness: 0.013010
+Robot fitness: 0.015957
+Robot fitness: 0.030377
+Robot fitness: 0.013840
+Robot fitness: 0.018302
+Robot fitness: 0.006667
+Robot fitness: 0.005903
+Robot fitness: 0.030256
+Robot fitness: 0.007379
+Robot fitness: 0.016595
+Robot fitness: 0.008752
+Robot fitness: 0.009971
+Robot fitness: 0.012981
+Robot fitness: 0.004924
+Robot fitness: 0.038662
+Robot fitness: 0.007235
+Robot fitness: 0.007713
+Robot fitness: 0.007353
+Robot fitness: 0.007192
+Robot fitness: 0.021404
+Robot fitness: 0.006628
+Robot fitness: 0.038040
+Robot fitness: 0.008896
+Robot fitness: 0.010005
+Robot fitness: 0.024611
+Robot fitness: 0.016015
+Robot fitness: 0.016548
+Robot fitness: 0.013960
+Robot fitness: 0.023355
+Robot fitness: 0.006042
+Robot fitness: 0.013229
+Robot fitness: 0.026154
+Robot fitness: 0.009568
+Robot fitness: 0.013798
+Robot fitness: 0.005964
+Robot fitness: 0.007006
+Robot fitness: 0.011526
+Robot fitness: 0.007372
+Robot fitness: 0.006496
+Robot fitness: 0.005079
+Robot fitness: 0.019125
+Robot fitness: 0.027842
+Robot fitness: 0.020395
+Robot fitness: 0.009467
+Robot fitness: 0.005664
+Robot fitness: 0.016643
+Robot fitness: 0.016887
+Robot fitness: 0.016703
+Robot fitness: 0.005164
+Robot fitness: 0.006082
+Robot fitness: 0.036341
+Robot fitness: 0.007035
+Robot fitness: 0.007174
+Robot fitness: 0.007181
+Robot fitness: 0.007473
+Robot fitness: 0.031524
+Robot fitness: 0.016615
+Robot fitness: 0.028354
+Robot fitness: 0.007012
+Robot fitness: 0.006872
+Robot fitness: 0.006850
+Robot fitness: 0.006907
+Robot fitness: 0.014817
+Robot fitness: 0.016991
+Robot fitness: 0.006682
+Robot fitness: 0.038576
+Robot fitness: 0.007210
+Robot fitness: 0.008169
+Robot fitness: 0.007688
+Robot fitness: 0.007228
+Robot fitness: 0.006591
+Robot fitness: 0.006974
+Robot fitness: 0.006874
+Robot fitness: 0.006483
+Robot fitness: 0.019913
+Robot fitness: 0.015046
+Robot fitness: 0.017608
+Robot fitness: 0.013415
+Robot fitness: 0.013245
+Robot fitness: 0.024721
+Robot fitness: 0.018144
+Robot fitness: 0.016657
+Robot fitness: 0.009826
+Robot fitness: 0.005063
+Robot fitness: 0.022041
+Robot fitness: 0.017975
+Robot fitness: 0.019222
+Robot fitness: 0.023318
+Robot fitness: 0.023157
+Robot fitness: 0.016349
+Robot fitness: 0.015199
+Robot fitness: 0.016066
+Robot fitness: 0.005625
+Robot fitness: 0.010198
+Robot fitness: 0.004341
+Robot fitness: 0.005606
+Robot fitness: 0.021200
+Robot fitness: 0.023402
+Robot fitness: 0.019764
+Robot fitness: 0.008894
+Robot fitness: 0.005768
+Robot fitness: 0.032914
+Robot fitness: 0.007265
+Robot fitness: 0.011925
+Robot fitness: 0.008788
+Robot fitness: 0.029616
+Robot fitness: 0.016081
+Robot fitness: 0.013770
+Robot fitness: 0.030172
+Robot fitness: 0.006432
+Robot fitness: 0.013119
+Robot fitness: 0.010432
+Robot fitness: 0.021341
+Robot fitness: 0.030418
+Robot fitness: 0.005121
+Robot fitness: 0.013480
+Robot fitness: 0.011890
+Robot fitness: 0.009386
+Robot fitness: 0.031008
+Robot fitness: 0.022702
+Robot fitness: 0.015791
+Robot fitness: 0.007529
+Robot fitness: 0.018295
+Robot fitness: 0.022942
+Robot fitness: 0.009223
+Robot fitness: 0.008060
+Robot fitness: 0.014655
+Robot fitness: 0.029731
+Robot fitness: 0.034447
+Robot fitness: 0.037917
+Robot fitness: 0.013401
+Robot fitness: 0.007040
+Robot fitness: 0.007344
+Robot fitness: 0.007369
+Robot fitness: 0.015394
+Robot fitness: 0.006972
+Robot fitness: 0.019666
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 276 )
+Evaluating gait, fitness = 0.0564692
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 277 )
+Evaluating gait, fitness = 0.0381769
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 278 )
+Evaluating gait, fitness = 0.0371305
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 279 )
+Evaluating gait, fitness = 0.0325102
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 280 )
+Evaluating gait, fitness = 0.0341029
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 281 )
+Evaluating gait, fitness = 0.0240123
+Number of Species: 1
+Generation 28: overall_average = 0.00491891
+NEW POPULATION RECORD FITNESS: 0.144197, delta=0.0215799 @ gen=28
+phase PRUNE @ gen 29
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 282 )
+Evaluating gait, fitness = 0.094635
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 283 )
+Evaluating gait, fitness = 0.0747061
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 284 )
+Evaluating gait, fitness = 0.0229583
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 285 )
+Evaluating gait, fitness = 0.0218022
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 286 )
+Evaluating gait, fitness = 0.053298
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 287 )
+Evaluating gait, fitness = 0.0634921
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 288 )
+Evaluating gait, fitness = 0.0369961
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 289 )
+Evaluating gait, fitness = 0.208508
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 290 )
+Evaluating gait, fitness = 0.0174962
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 291 )
+Evaluating gait, fitness = 0.0862562
+Number of Species: 1
+Generation 29: overall_average = 0.00680148
+NEW POPULATION RECORD FITNESS: 0.208508, delta=0.0643115 @ gen=29
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 292 )
+Evaluating gait, fitness = 0.113442
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 293 )
+Evaluating gait, fitness = 0.0194229
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 294 )
+Evaluating gait, fitness = 0.165208
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 295 )
+Evaluating gait, fitness = 0.0608242
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 296 )
+Evaluating gait, fitness = 0.00268596
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 297 )
+Evaluating gait, fitness = 0.0172826
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 298 )
+Evaluating gait, fitness = 0.0299474
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 299 )
+Evaluating gait, fitness = 0.00833704
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 300 )
+Evaluating gait, fitness = 0.0244894
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 301 )
+Evaluating gait, fitness = 0.0264994
+Number of Species: 1
+Generation 30: overall_average = 0.00468139
+1 generations since last population fitness record: 0.208508
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 302 )
+Evaluating gait, fitness = 0.161556
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 303 )
+Evaluating gait, fitness = 0.0614553
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 304 )
+Evaluating gait, fitness = 0.03962
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 305 )
+Evaluating gait, fitness = 0.00765125
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 306 )
+Evaluating gait, fitness = 0.0110086
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 307 )
+Evaluating gait, fitness = 0.00506929
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 308 )
+Evaluating gait, fitness = 0.0319118
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 309 )
+Evaluating gait, fitness = 0.0874292
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 310 )
+Evaluating gait, fitness = 0.0218414
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 311 )
+Evaluating gait, fitness = 0.00366843
+Number of Species: 2
+Generation 31: overall_average = 0.00576978
+2 generations since last population fitness record: 0.208508
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 312 )
+Evaluating gait, fitness = 0.110812
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 313 )
+Evaluating gait, fitness = 0.0845274
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 314 )
+Evaluating gait, fitness = 0.0949647
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 315 )
+Evaluating gait, fitness = 0.132818
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 316 )
+Evaluating gait, fitness = 0.102262
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 317 )
+Evaluating gait, fitness = 0.0673963
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 318 )
+Evaluating gait, fitness = 0.015842
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 319 )
+Evaluating gait, fitness = 0.091638
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 320 )
+Evaluating gait, fitness = 0.0161161
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 321 )
+Evaluating gait, fitness = 0.0053288
+Number of Species: 2
+Generation 32: overall_average = 0.00982551
+3 generations since last population fitness record: 0.208508
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 322 )
+Evaluating gait, fitness = 0.0244329
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 323 )
+Evaluating gait, fitness = 0.00864293
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 324 )
+Evaluating gait, fitness = 0.0247858
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 325 )
+Evaluating gait, fitness = 0.0386944
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 326 )
+Evaluating gait, fitness = 0.0482431
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 327 )
+Evaluating gait, fitness = 0.0675945
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 328 )
+Evaluating gait, fitness = 0.0241979
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 329 )
+Evaluating gait, fitness = 0.0365993
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 330 )
+Evaluating gait, fitness = 0.128213
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 331 )
+Evaluating gait, fitness = 0.0669948
+Number of Species: 2
+Generation 33: overall_average = 0.0111595
+4 generations since last population fitness record: 0.208508
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 332 )
+Evaluating gait, fitness = 0.099459
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 333 )
+Evaluating gait, fitness = 0.0453565
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 334 )
+Evaluating gait, fitness = 0.0167633
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 335 )
+Evaluating gait, fitness = 0.0544252
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 336 )
+Evaluating gait, fitness = 0.0299325
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 337 )
+Evaluating gait, fitness = 0.0646237
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 338 )
+Evaluating gait, fitness = 0.0637388
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 339 )
+Evaluating gait, fitness = 0.0543737
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 340 )
+Evaluating gait, fitness = 0.0210525
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 341 )
+Evaluating gait, fitness = 0.0509206
+Number of Species: 2
+Generation 34: overall_average = 0.0102298
+5 generations since last population fitness record: 0.208508
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 342 )
+Evaluating gait, fitness = 0.119017
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 343 )
+Evaluating gait, fitness = 0.0295768
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 344 )
+Evaluating gait, fitness = 0.130164
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 345 )
+Evaluating gait, fitness = 0.186058
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 346 )
+Evaluating gait, fitness = 0.0580177
+Robot fitness: 0.029161
+Robot fitness: 0.007121
+Robot fitness: 0.007668
+Robot fitness: 0.020823
+Robot fitness: 0.015676
+Robot fitness: 0.007880
+Robot fitness: 0.007905
+Robot fitness: 0.015698
+Robot fitness: 0.005973
+Robot fitness: 0.016091
+Robot fitness: 0.008629
+Robot fitness: 0.007423
+Robot fitness: 0.006439
+Robot fitness: 0.013296
+Robot fitness: 0.010197
+Robot fitness: 0.024151
+Robot fitness: 0.045493
+Robot fitness: 0.014392
+Robot fitness: 0.007178
+Robot fitness: 0.006301
+Robot fitness: 0.016198
+Robot fitness: 0.008829
+Robot fitness: 0.018460
+Robot fitness: 0.007847
+Robot fitness: 0.024387
+Robot fitness: 0.028890
+Robot fitness: 0.033212
+Robot fitness: 0.009604
+Robot fitness: 0.007573
+Robot fitness: 0.018869
+Robot fitness: 0.013145
+Robot fitness: 0.025496
+Robot fitness: 0.043966
+Robot fitness: 0.030929
+Robot fitness: 0.016102
+Robot fitness: 0.006959
+Robot fitness: 0.015168
+Robot fitness: 0.018170
+Robot fitness: 0.039756
+Robot fitness: 0.009810
+Robot fitness: 0.009785
+Robot fitness: 0.009770
+Robot fitness: 0.005558
+Robot fitness: 0.031054
+Robot fitness: 0.041090
+Robot fitness: 0.013109
+Robot fitness: 0.014229
+Robot fitness: 0.009192
+Robot fitness: 0.016441
+Robot fitness: 0.016372
+Robot fitness: 0.010939
+Robot fitness: 0.005562
+Robot fitness: 0.009722
+Robot fitness: 0.016062
+Robot fitness: 0.006493
+Robot fitness: 0.010188
+Robot fitness: 0.006112
+Robot fitness: 0.015168
+Robot fitness: 0.006402
+Robot fitness: 0.006902
+Robot fitness: 0.008927
+Robot fitness: 0.011842
+Robot fitness: 0.011556
+Robot fitness: 0.031255
+Robot fitness: 0.019652
+Robot fitness: 0.012350
+Robot fitness: 0.014411
+Robot fitness: 0.014936
+Robot fitness: 0.012398
+Robot fitness: 0.009967
+Robot fitness: 0.006145
+Robot fitness: 0.004700
+Robot fitness: 0.007027
+Robot fitness: 0.005004
+Robot fitness: 0.005097
+Robot fitness: 0.004822
+Robot fitness: 0.009332
+Robot fitness: 0.009231
+Robot fitness: 0.012933
+Robot fitness: 0.017342
+Robot fitness: 0.011344
+Robot fitness: 0.007559
+Robot fitness: 0.007839
+Robot fitness: 0.016449
+Robot fitness: 0.014575
+Robot fitness: 0.011229
+Robot fitness: 0.045494
+Robot fitness: 0.018270
+Robot fitness: 0.042130
+Robot fitness: 0.007355
+Robot fitness: 0.024237
+Robot fitness: 0.016665
+Robot fitness: 0.008366
+Robot fitness: 0.023117
+Robot fitness: 0.034979
+Robot fitness: 0.038220
+Robot fitness: 0.009467
+Robot fitness: 0.026191
+Robot fitness: 0.013326
+Robot fitness: 0.007447
+Robot fitness: 0.008375
+Robot fitness: 0.005505
+Robot fitness: 0.017312
+Robot fitness: 0.019087
+Robot fitness: 0.013968
+Robot fitness: 0.009774
+Robot fitness: 0.009168
+Robot fitness: 0.004947
+Robot fitness: 0.005063
+Robot fitness: 0.027683
+Robot fitness: 0.023446
+Robot fitness: 0.013672
+Robot fitness: 0.004932
+Robot fitness: 0.006387
+Robot fitness: 0.008545
+Robot fitness: 0.009597
+Robot fitness: 0.004799
+Robot fitness: 0.012870
+Robot fitness: 0.011085
+Robot fitness: 0.007111
+Robot fitness: 0.023513
+Robot fitness: 0.005075
+Robot fitness: 0.018857
+Robot fitness: 0.009187
+Robot fitness: 0.025332
+Robot fitness: 0.007419
+Robot fitness: 0.006819
+Robot fitness: 0.019025
+Robot fitness: 0.006341
+Robot fitness: 0.008222
+Robot fitness: 0.023381
+Robot fitness: 0.008712
+Robot fitness: 0.012861
+Robot fitness: 0.005873
+Robot fitness: 0.022985
+Robot fitness: 0.022685
+Robot fitness: 0.009562
+Robot fitness: 0.019158
+Robot fitness: 0.020666
+Robot fitness: 0.008376
+Robot fitness: 0.005749
+Robot fitness: 0.021249
+Robot fitness: 0.016564
+Robot fitness: 0.012876
+Robot fitness: 0.019728
+Robot fitness: 0.015197
+Robot fitness: 0.022196
+Robot fitness: 0.008489
+Robot fitness: 0.013494
+Robot fitness: 0.014513
+Robot fitness: 0.006663
+Robot fitness: 0.017809
+Robot fitness: 0.007023
+Robot fitness: 0.007104
+Robot fitness: 0.007372
+Robot fitness: 0.016201
+Robot fitness: 0.008021
+Robot fitness: 0.008478
+Robot fitness: 0.043672
+Robot fitness: 0.011490
+Robot fitness: 0.015926
+Robot fitness: 0.009818
+Robot fitness: 0.015247
+Robot fitness: 0.024992
+Robot fitness: 0.018576
+Robot fitness: 0.035369
+Robot fitness: 0.043708
+Robot fitness: 0.029255
+Robot fitness: 0.007135
+Robot fitness: 0.024992
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 347 )
+Evaluating gait, fitness = 0.156938
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 348 )
+Evaluating gait, fitness = 0.057207
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 349 )
+Evaluating gait, fitness = 0.10494
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 350 )
+Evaluating gait, fitness = 0.140575
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 351 )
+Evaluating gait, fitness = 0.0229503
+Number of Species: 2
+Generation 35: overall_average = 0.0194713
+6 generations since last population fitness record: 0.208508
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 352 )
+Evaluating gait, fitness = 0.195058
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 353 )
+Evaluating gait, fitness = 0.0492325
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 354 )
+Evaluating gait, fitness = 0.0863122
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 355 )
+Evaluating gait, fitness = 0.169401
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 356 )
+Evaluating gait, fitness = 0.0638469
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 357 )
+Evaluating gait, fitness = 0.0816087
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 358 )
+Evaluating gait, fitness = 0.0285915
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 359 )
+Evaluating gait, fitness = 0.167213
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 360 )
+Evaluating gait, fitness = 0.0485509
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 361 )
+Evaluating gait, fitness = 0.00384964
+Number of Species: 2
+Generation 36: overall_average = 0.0169628
+7 generations since last population fitness record: 0.208508
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 362 )
+Evaluating gait, fitness = 0.12671
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 363 )
+Evaluating gait, fitness = 0.122827
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 364 )
+Evaluating gait, fitness = 0.193403
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 365 )
+Evaluating gait, fitness = 0.0263016
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 366 )
+Evaluating gait, fitness = 0.105085
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 367 )
+Evaluating gait, fitness = 0.212616
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 368 )
+Evaluating gait, fitness = 0.0814058
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 369 )
+Evaluating gait, fitness = 0.0983208
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 370 )
+Evaluating gait, fitness = 0.00521902
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 371 )
+Evaluating gait, fitness = 0.139469
+Number of Species: 2
+Generation 37: overall_average = 0.0212261
+NEW POPULATION RECORD FITNESS: 0.212616, delta=0.00410776 @ gen=37
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 372 )
+Evaluating gait, fitness = 0.180369
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 373 )
+Evaluating gait, fitness = 0.177396
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 374 )
+Evaluating gait, fitness = 0.0165532
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 375 )
+Evaluating gait, fitness = 0.147815
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 376 )
+Evaluating gait, fitness = 0.13736
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 377 )
+Evaluating gait, fitness = 0.140527
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 378 )
+Evaluating gait, fitness = 0.0457008
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 379 )
+Evaluating gait, fitness = 0.129162
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 380 )
+Evaluating gait, fitness = 0.0934196
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 381 )
+Evaluating gait, fitness = 0.0477993
+Number of Species: 3
+Generation 38: overall_average = 0.0270563
+1 generations since last population fitness record: 0.212616
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 382 )
+Evaluating gait, fitness = 0.116449
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 383 )
+Evaluating gait, fitness = 0.044564
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 384 )
+Evaluating gait, fitness = 0.135682
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 385 )
+Evaluating gait, fitness = 0.112812
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 386 )
+Evaluating gait, fitness = 0.0954519
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 387 )
+Evaluating gait, fitness = 0.0850021
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 388 )
+Evaluating gait, fitness = 0.117106
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 389 )
+Evaluating gait, fitness = 0.0318535
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 390 )
+Evaluating gait, fitness = 0.0689946
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 391 )
+Evaluating gait, fitness = 0.114104
+Number of Species: 3
+Generation 39: overall_average = 0.0296162
+2 generations since last population fitness record: 0.212616
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 392 )
+Evaluating gait, fitness = 0.10044
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 393 )
+Evaluating gait, fitness = 0.0680671
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 394 )
+Evaluating gait, fitness = 0.209389
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 395 )
+Evaluating gait, fitness = 0.0149871
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 396 )
+Evaluating gait, fitness = 0.0904489
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 397 )
+Evaluating gait, fitness = 0.0518786
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 398 )
+Evaluating gait, fitness = 0.0907648
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 399 )
+Evaluating gait, fitness = 0.0552732
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 400 )
+Evaluating gait, fitness = 0.0747815
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 401 )
+Evaluating gait, fitness = 0.0127493
+Number of Species: 3
+Generation 40: overall_average = 0.0236796
+3 generations since last population fitness record: 0.212616
+phase COMPLEXIFY @ gen 41
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 402 )
+Evaluating gait, fitness = 0.0607888
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 403 )
+Evaluating gait, fitness = 0.0872849
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 404 )
+Evaluating gait, fitness = 0.0851894
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 405 )
+Evaluating gait, fitness = 0.149153
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 406 )
+Evaluating gait, fitness = 0.050533
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 407 )
+Evaluating gait, fitness = 0.109712
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 408 )
+Evaluating gait, fitness = 0.06464
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 409 )
+Evaluating gait, fitness = 0.0262091
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 410 )
+Evaluating gait, fitness = 0.0667433
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 411 )
+Evaluating gait, fitness = 0.0429955
+Number of Species: 3
+Generation 41: overall_average = 0.0190738
+4 generations since last population fitness record: 0.212616
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 412 )
+Evaluating gait, fitness = 0.0264384
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 413 )
+Evaluating gait, fitness = 0.092645
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 414 )
+Evaluating gait, fitness = 0.069624
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 415 )
+Evaluating gait, fitness = 0.101872
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 416 )
+Evaluating gait, fitness = 0.08872
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 417 )
+Evaluating gait, fitness = 0.015315
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 418 )
+Evaluating gait, fitness = 0.00854909
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 419 )
+Evaluating gait, fitness = 0.0533289
+Robot fitness: 0.035898
+Robot fitness: 0.016834
+Robot fitness: 0.010190
+Robot fitness: 0.014980
+Robot fitness: 0.029356
+Robot fitness: 0.017960
+Robot fitness: 0.042411
+Robot fitness: 0.006955
+Robot fitness: 0.026443
+Robot fitness: 0.011236
+Robot fitness: 0.018949
+Robot fitness: 0.047465
+Robot fitness: 0.032138
+Robot fitness: 0.022837
+Robot fitness: 0.010522
+Robot fitness: 0.013748
+Robot fitness: 0.027945
+Robot fitness: 0.013086
+Robot fitness: 0.016134
+Robot fitness: 0.042191
+Robot fitness: 0.034482
+Robot fitness: 0.011275
+Robot fitness: 0.014113
+Robot fitness: 0.018819
+Robot fitness: 0.004618
+Robot fitness: 0.016672
+Robot fitness: 0.007426
+Robot fitness: 0.034920
+Robot fitness: 0.024301
+Robot fitness: 0.014540
+Robot fitness: 0.006872
+Robot fitness: 0.009919
+Robot fitness: 0.009392
+Robot fitness: 0.008882
+Robot fitness: 0.006733
+Robot fitness: 0.025667
+Robot fitness: 0.041403
+Robot fitness: 0.022523
+Robot fitness: 0.018666
+Robot fitness: 0.033293
+Robot fitness: 0.040627
+Robot fitness: 0.020164
+Robot fitness: 0.006488
+Robot fitness: 0.007949
+Robot fitness: 0.020308
+Robot fitness: 0.025062
+Robot fitness: 0.048995
+Robot fitness: 0.027955
+Robot fitness: 0.033577
+Robot fitness: 0.011864
+Robot fitness: 0.021614
+Robot fitness: 0.020290
+Robot fitness: 0.020865
+Robot fitness: 0.011714
+Robot fitness: 0.007817
+Robot fitness: 0.032004
+Robot fitness: 0.017746
+Robot fitness: 0.020096
+Robot fitness: 0.034845
+Robot fitness: 0.035526
+Robot fitness: 0.044393
+Robot fitness: 0.026937
+Robot fitness: 0.016074
+Robot fitness: 0.004018
+Robot fitness: 0.017286
+Robot fitness: 0.022766
+Robot fitness: 0.027543
+Robot fitness: 0.043421
+Robot fitness: 0.017634
+Robot fitness: 0.020033
+Robot fitness: 0.033216
+Robot fitness: 0.026719
+Robot fitness: 0.007043
+Robot fitness: 0.020639
+Robot fitness: 0.022303
+Robot fitness: 0.022957
+Robot fitness: 0.021980
+Robot fitness: 0.021972
+Robot fitness: 0.016805
+Robot fitness: 0.010937
+Robot fitness: 0.014610
+Robot fitness: 0.016192
+Robot fitness: 0.020593
+Robot fitness: 0.020177
+Robot fitness: 0.007498
+Robot fitness: 0.015812
+Robot fitness: 0.018248
+Robot fitness: 0.024811
+Robot fitness: 0.017839
+Robot fitness: 0.035042
+Robot fitness: 0.017386
+Robot fitness: 0.024014
+Robot fitness: 0.010778
+Robot fitness: 0.021876
+Robot fitness: 0.016901
+Robot fitness: 0.031011
+Robot fitness: 0.018310
+Robot fitness: 0.017075
+Robot fitness: 0.004265
+Robot fitness: 0.014117
+Robot fitness: 0.016449
+Robot fitness: 0.015206
+Robot fitness: 0.010525
+Robot fitness: 0.027121
+Robot fitness: 0.011711
+Robot fitness: 0.033097
+Robot fitness: 0.020599
+Robot fitness: 0.024369
+Robot fitness: 0.005754
+Robot fitness: 0.037818
+Robot fitness: 0.040073
+Robot fitness: 0.015074
+Robot fitness: 0.007602
+Robot fitness: 0.005403
+Robot fitness: 0.008473
+Robot fitness: 0.029489
+Robot fitness: 0.017035
+Robot fitness: 0.016357
+Robot fitness: 0.028272
+Robot fitness: 0.017443
+Robot fitness: 0.018770
+Robot fitness: 0.015085
+Robot fitness: 0.011572
+Robot fitness: 0.012504
+Robot fitness: 0.021186
+Robot fitness: 0.010036
+Robot fitness: 0.007376
+Robot fitness: 0.016088
+Robot fitness: 0.019478
+Robot fitness: 0.017133
+Robot fitness: 0.032663
+Robot fitness: 0.013673
+Robot fitness: 0.015153
+Robot fitness: 0.022515
+Robot fitness: 0.015729
+Robot fitness: 0.031845
+Robot fitness: 0.037594
+Robot fitness: 0.021351
+Robot fitness: 0.009573
+Robot fitness: 0.033008
+Robot fitness: 0.007714
+Robot fitness: 0.018381
+Robot fitness: 0.022369
+Robot fitness: 0.006818
+Robot fitness: 0.017135
+Robot fitness: 0.013317
+Robot fitness: 0.008910
+Robot fitness: 0.014652
+Robot fitness: 0.013966
+Robot fitness: 0.019922
+Robot fitness: 0.013278
+Robot fitness: 0.011822
+Robot fitness: 0.007539
+Robot fitness: 0.015206
+Robot fitness: 0.009580
+Robot fitness: 0.037401
+Robot fitness: 0.019376
+Robot fitness: 0.020419
+Robot fitness: 0.006184
+Robot fitness: 0.026755
+Robot fitness: 0.041573
+Robot fitness: 0.007741
+Robot fitness: 0.006024
+Robot fitness: 0.006014
+Robot fitness: 0.007512
+Robot fitness: 0.006833
+Robot fitness: 0.005497
+Robot fitness: 0.005361
+Robot fitness: 0.018940
+Robot fitness: 0.009709
+Robot fitness: 0.016688
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 420 )
+Evaluating gait, fitness = 0.0540608
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 421 )
+Evaluating gait, fitness = 0.0205636
+Number of Species: 3
+Generation 42: overall_average = 0.0152824
+5 generations since last population fitness record: 0.212616
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 422 )
+Evaluating gait, fitness = 0.0174161
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 423 )
+Evaluating gait, fitness = 0.0349702
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 424 )
+Evaluating gait, fitness = 0.029269
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 425 )
+Evaluating gait, fitness = 0.0820425
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 426 )
+Evaluating gait, fitness = 0.103653
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 427 )
+Evaluating gait, fitness = 0.0171709
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 428 )
+Evaluating gait, fitness = 0.009066
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 429 )
+Evaluating gait, fitness = 0.120175
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 430 )
+Evaluating gait, fitness = 0.0187789
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 431 )
+Evaluating gait, fitness = 0.0785506
+Number of Species: 3
+Generation 43: overall_average = 0.0156723
+6 generations since last population fitness record: 0.212616
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 432 )
+Evaluating gait, fitness = 0.0576221
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 433 )
+Evaluating gait, fitness = 0.0232935
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 434 )
+Evaluating gait, fitness = 0.0232439
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 435 )
+Evaluating gait, fitness = 0.0353877
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 436 )
+Evaluating gait, fitness = 0.0140557
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 437 )
+Evaluating gait, fitness = 0.111407
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 438 )
+Evaluating gait, fitness = 0.0417271
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 439 )
+Evaluating gait, fitness = 0.0842902
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 440 )
+Evaluating gait, fitness = 0.0595211
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 441 )
+Evaluating gait, fitness = 0.0814361
+Number of Species: 3
+Generation 44: overall_average = 0.0140363
+7 generations since last population fitness record: 0.212616
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 442 )
+Evaluating gait, fitness = 0.0804726
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 443 )
+Evaluating gait, fitness = 0.0601742
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 444 )
+Evaluating gait, fitness = 0.0403547
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 445 )
+Evaluating gait, fitness = 0.0407709
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 446 )
+Evaluating gait, fitness = 0.119166
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 447 )
+Evaluating gait, fitness = 0.146719
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 448 )
+Evaluating gait, fitness = 0.0904543
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 449 )
+Evaluating gait, fitness = 0.0557129
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 450 )
+Evaluating gait, fitness = 0.0552759
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 451 )
+Evaluating gait, fitness = 0.083654
+Number of Species: 3
+Generation 45: overall_average = 0.0202716
+8 generations since last population fitness record: 0.212616
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 452 )
+Evaluating gait, fitness = 0.011338
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 453 )
+Evaluating gait, fitness = 0.0900137
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 454 )
+Evaluating gait, fitness = 0.0642267
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 455 )
+Evaluating gait, fitness = 0.00778596
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 456 )
+Evaluating gait, fitness = 0.0106355
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 457 )
+Evaluating gait, fitness = 0.0115958
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 458 )
+Evaluating gait, fitness = 0.0515028
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 459 )
+Evaluating gait, fitness = 0.0497391
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 460 )
+Evaluating gait, fitness = 0.0447756
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 461 )
+Evaluating gait, fitness = 0.0278327
+Number of Species: 3
+Generation 46: overall_average = 0.0101493
+9 generations since last population fitness record: 0.212616
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 462 )
+Evaluating gait, fitness = 0.00441584
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 463 )
+Evaluating gait, fitness = 0.00653936
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 464 )
+Evaluating gait, fitness = 0.00691862
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 465 )
+Evaluating gait, fitness = 0.00384395
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 466 )
+Evaluating gait, fitness = 0.0239351
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 467 )
+Evaluating gait, fitness = 0.00362516
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 468 )
+Evaluating gait, fitness = 0.0166183
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 469 )
+Evaluating gait, fitness = 0.0682665
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 470 )
+Evaluating gait, fitness = 0.0539958
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 471 )
+Evaluating gait, fitness = 0.0738907
+Number of Species: 3
+Generation 47: overall_average = 0.00902156
+10 generations since last population fitness record: 0.212616
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 472 )
+Evaluating gait, fitness = 0.0593953
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 473 )
+Evaluating gait, fitness = 0.011765
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 474 )
+Evaluating gait, fitness = 0.0546394
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 475 )
+Evaluating gait, fitness = 0.0389257
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 476 )
+Evaluating gait, fitness = 0.01275
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 477 )
+Evaluating gait, fitness = 0.0194862
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 478 )
+Evaluating gait, fitness = 0.128887
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 479 )
+Evaluating gait, fitness = 0.040478
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 480 )
+Evaluating gait, fitness = 0.0113755
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 481 )
+Evaluating gait, fitness = 0.102056
+Number of Species: 2
+Generation 48: overall_average = 0.00866549
+11 generations since last population fitness record: 0.212616
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 482 )
+Evaluating gait, fitness = 0.138247
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 483 )
+Evaluating gait, fitness = 0.0306439
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 484 )
+Evaluating gait, fitness = 0.00828829
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 485 )
+Evaluating gait, fitness = 0.0437636
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 486 )
+Evaluating gait, fitness = 0.111247
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 487 )
+Evaluating gait, fitness = 0.11595
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 488 )
+Evaluating gait, fitness = 0.053744
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 489 )
+Evaluating gait, fitness = 0.0424538
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 490 )
+Evaluating gait, fitness = 0.09016
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 491 )
+Evaluating gait, fitness = 0.0610527
+Number of Species: 2
+Generation 49: overall_average = 0.0134337
+Robot fitness: 0.014865
+Robot fitness: 0.005877
+Robot fitness: 0.007782
+Robot fitness: 0.006647
+Robot fitness: 0.007147
+Robot fitness: 0.007172
+Robot fitness: 0.009582
+Robot fitness: 0.010715
+Robot fitness: 0.005850
+Robot fitness: 0.010782
+Robot fitness: 0.004340
+Robot fitness: 0.035686
+Robot fitness: 0.012178
+Robot fitness: 0.043782
+Robot fitness: 0.012766
+Robot fitness: 0.007247
+Robot fitness: 0.007853
+Robot fitness: 0.006285
+Robot fitness: 0.007019
+Robot fitness: 0.005591
+Robot fitness: 0.005580
+Robot fitness: 0.030624
+Robot fitness: 0.019807
+Robot fitness: 0.019764
+Robot fitness: 0.020091
+Robot fitness: 0.026345
+Robot fitness: 0.013299
+Robot fitness: 0.016163
+Robot fitness: 0.021241
+Robot fitness: 0.006547
+Robot fitness: 0.007694
+Robot fitness: 0.008538
+Robot fitness: 0.008373
+Robot fitness: 0.008051
+Robot fitness: 0.007919
+Robot fitness: 0.021742
+Robot fitness: 0.007337
+Robot fitness: 0.006207
+Robot fitness: 0.005816
+Robot fitness: 0.006829
+Robot fitness: 0.033522
+Robot fitness: 0.017436
+Robot fitness: 0.021678
+Robot fitness: 0.006339
+Robot fitness: 0.010780
+Robot fitness: 0.022434
+Robot fitness: 0.017135
+Robot fitness: 0.018266
+Robot fitness: 0.007281
+Robot fitness: 0.014623
+Robot fitness: 0.020841
+Robot fitness: 0.008712
+Robot fitness: 0.026594
+Robot fitness: 0.015209
+Robot fitness: 0.024630
+Robot fitness: 0.013107
+Robot fitness: 0.018974
+Robot fitness: 0.009575
+Robot fitness: 0.008815
+Robot fitness: 0.013548
+Robot fitness: 0.005839
+Robot fitness: 0.023545
+Robot fitness: 0.023346
+Robot fitness: 0.014780
+Robot fitness: 0.026929
+Robot fitness: 0.037244
+Robot fitness: 0.021416
+Robot fitness: 0.019030
+Robot fitness: 0.021174
+Robot fitness: 0.013343
+Robot fitness: 0.012093
+Robot fitness: 0.012339
+Robot fitness: 0.007833
+Robot fitness: 0.018871
+Robot fitness: 0.021949
+Robot fitness: 0.015272
+Robot fitness: 0.013094
+Robot fitness: 0.009551
+Robot fitness: 0.028969
+Robot fitness: 0.011613
+Robot fitness: 0.019100
+Robot fitness: 0.015597
+Robot fitness: 0.007021
+Robot fitness: 0.005698
+Robot fitness: 0.006177
+Robot fitness: 0.006446
+Robot fitness: 0.005450
+Robot fitness: 0.004696
+Robot fitness: 0.007664
+Robot fitness: 0.006032
+Robot fitness: 0.010952
+Robot fitness: 0.010070
+Robot fitness: 0.029406
+Robot fitness: 0.011231
+Robot fitness: 0.008701
+Robot fitness: 0.010807
+Robot fitness: 0.011441
+Robot fitness: 0.013399
+Robot fitness: 0.006995
+Robot fitness: 0.006628
+Robot fitness: 0.004063
+Robot fitness: 0.005363
+Robot fitness: 0.004970
+Robot fitness: 0.005170
+Robot fitness: 0.005531
+Robot fitness: 0.005181
+Robot fitness: 0.005002
+Robot fitness: 0.004591
+Robot fitness: 0.006280
+Robot fitness: 0.007720
+Robot fitness: 0.007106
+Robot fitness: 0.005033
+Robot fitness: 0.004800
+Robot fitness: 0.006725
+Robot fitness: 0.006996
+Robot fitness: 0.010714
+Robot fitness: 0.017139
+Robot fitness: 0.015542
+Robot fitness: 0.011055
+Robot fitness: 0.016112
+Robot fitness: 0.013059
+Robot fitness: 0.013997
+Robot fitness: 0.014852
+Robot fitness: 0.016922
+Robot fitness: 0.008916
+Robot fitness: 0.025712
+Robot fitness: 0.013337
+Robot fitness: 0.013309
+Robot fitness: 0.015122
+Robot fitness: 0.013075
+Robot fitness: 0.012522
+Robot fitness: 0.013612
+Robot fitness: 0.009838
+Robot fitness: 0.007999
+Robot fitness: 0.008362
+Robot fitness: 0.006522
+Robot fitness: 0.006960
+Robot fitness: 0.024036
+Robot fitness: 0.031908
+Robot fitness: 0.020578
+Robot fitness: 0.014650
+Robot fitness: 0.013169
+Robot fitness: 0.008922
+Robot fitness: 0.007945
+Robot fitness: 0.012075
+Robot fitness: 0.019121
+Robot fitness: 0.007313
+Robot fitness: 0.027867
+Robot fitness: 0.023992
+Robot fitness: 0.011341
+Robot fitness: 0.007266
+Robot fitness: 0.007837
+Robot fitness: 0.005270
+Robot fitness: 0.015067
+Robot fitness: 0.016514
+Robot fitness: 0.015746
+Robot fitness: 0.043838
+Robot fitness: 0.015185
+Robot fitness: 0.022775
+Robot fitness: 0.022655
+Robot fitness: 0.012007
+Robot fitness: 0.015396
+Robot fitness: 0.014976
+Robot fitness: 0.010975
+Robot fitness: 0.009757
+Robot fitness: 0.028995
+Robot fitness: 0.008593
+Robot fitness: 0.012827
+Robot fitness: 0.021109
+Robot fitness: 0.007672
+Robot fitness: 0.015278
+12 generations since last population fitness record: 0.212616
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 492 )
+Evaluating gait, fitness = 0.0432394
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 493 )
+Evaluating gait, fitness = 0.0588428
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 494 )
+Evaluating gait, fitness = 0.00796123
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 495 )
+Evaluating gait, fitness = 0.0315744
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 496 )
+Evaluating gait, fitness = 0.0930946
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 497 )
+Evaluating gait, fitness = 0.0190832
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 498 )
+Evaluating gait, fitness = 0.0187321
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 499 )
+Evaluating gait, fitness = 0.00986159
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 500 )
+Evaluating gait, fitness = 0.0214191
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 501 )
+Evaluating gait, fitness = 0.038105
+Number of Species: 2
+Generation 50: overall_average = 0.00337367
+13 generations since last population fitness record: 0.212616
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 502 )
+Evaluating gait, fitness = 0.104091
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 503 )
+Evaluating gait, fitness = 0.0474752
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 504 )
+Evaluating gait, fitness = 0.0860214
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 505 )
+Evaluating gait, fitness = 0.0362676
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 506 )
+Evaluating gait, fitness = 0.10726
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 507 )
+Evaluating gait, fitness = 0.0184701
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 508 )
+Evaluating gait, fitness = 0.0694979
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 509 )
+Evaluating gait, fitness = 0.0755339
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 510 )
+Evaluating gait, fitness = 0.0253728
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 511 )
+Evaluating gait, fitness = 0.153139
+Number of Species: 1
+Generation 51: overall_average = 0.00723128
+14 generations since last population fitness record: 0.212616
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 512 )
+Evaluating gait, fitness = 0.11795
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 513 )
+Evaluating gait, fitness = 0.059161
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 514 )
+Evaluating gait, fitness = 0.0219694
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 515 )
+Evaluating gait, fitness = 0.0399514
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 516 )
+Evaluating gait, fitness = 0.133725
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 517 )
+Evaluating gait, fitness = 0.0303602
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 518 )
+Evaluating gait, fitness = 0.0427222
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 519 )
+Evaluating gait, fitness = 0.0505072
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 520 )
+Evaluating gait, fitness = 0.0322848
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 521 )
+Evaluating gait, fitness = 0.0400535
+Number of Species: 1
+Generation 52: overall_average = 0.00568684
+15 generations since last population fitness record: 0.212616
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 522 )
+Evaluating gait, fitness = 0.0552639
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 523 )
+Evaluating gait, fitness = 0.0684034
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 524 )
+Evaluating gait, fitness = 0.00476931
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 525 )
+Evaluating gait, fitness = 0.0153156
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 526 )
+Evaluating gait, fitness = 0.0185261
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 527 )
+Evaluating gait, fitness = 0.0190596
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 528 )
+Evaluating gait, fitness = 0.0173342
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 529 )
+Evaluating gait, fitness = 0.0187374
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 530 )
+Evaluating gait, fitness = 0.0190243
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 531 )
+Evaluating gait, fitness = 0.0147899
+Number of Species: 1
+Generation 53: overall_average = 0.00251224
+16 generations since last population fitness record: 0.212616
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 532 )
+Evaluating gait, fitness = 0.0200127
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 533 )
+Evaluating gait, fitness = 0.0197116
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 534 )
+Evaluating gait, fitness = 0.0350054
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 535 )
+Evaluating gait, fitness = 0.0832346
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 536 )
+Evaluating gait, fitness = 0.0173941
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 537 )
+Evaluating gait, fitness = 0.0176627
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 538 )
+Evaluating gait, fitness = 0.0172256
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 539 )
+Evaluating gait, fitness = 0.0180158
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 540 )
+Evaluating gait, fitness = 0.0186067
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 541 )
+Evaluating gait, fitness = 0.0201086
+Number of Species: 1
+Generation 54: overall_average = 0.00266978
+17 generations since last population fitness record: 0.212616
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 542 )
+Evaluating gait, fitness = 0.0178594
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 543 )
+Evaluating gait, fitness = 0.019137
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 544 )
+Evaluating gait, fitness = 0.0189331
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 545 )
+Evaluating gait, fitness = 0.0185138
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 546 )
+Evaluating gait, fitness = 0.0360321
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 547 )
+Evaluating gait, fitness = 0.119796
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 548 )
+Evaluating gait, fitness = 0.0672024
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 549 )
+Evaluating gait, fitness = 0.0194143
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 550 )
+Evaluating gait, fitness = 0.0202638
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 551 )
+Evaluating gait, fitness = 0.0200232
+Number of Species: 1
+Generation 55: overall_average = 0.00357175
+18 generations since last population fitness record: 0.212616
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 552 )
+Evaluating gait, fitness = 0.0202986
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 553 )
+Evaluating gait, fitness = 0.156526
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 554 )
+Evaluating gait, fitness = 0.00379216
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 555 )
+Evaluating gait, fitness = 0.00973065
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 556 )
+Evaluating gait, fitness = 0.0696677
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 557 )
+Evaluating gait, fitness = 0.0515253
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 558 )
+Evaluating gait, fitness = 0.00854268
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 559 )
+Evaluating gait, fitness = 0.121098
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 560 )
+Evaluating gait, fitness = 0.0254161
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 561 )
+Evaluating gait, fitness = 0.0265388
+Number of Species: 1
+Generation 56: overall_average = 0.00493135
+19 generations since last population fitness record: 0.212616
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 562 )
+Evaluating gait, fitness = 0.0462228
+Robot fitness: 0.008126
+Robot fitness: 0.016630
+Robot fitness: 0.011815
+Robot fitness: 0.005722
+Robot fitness: 0.006563
+Robot fitness: 0.006472
+Robot fitness: 0.014967
+Robot fitness: 0.008648
+Robot fitness: 0.015674
+Robot fitness: 0.033359
+Robot fitness: 0.007471
+Robot fitness: 0.007187
+Robot fitness: 0.007479
+Robot fitness: 0.007196
+Robot fitness: 0.007392
+Robot fitness: 0.007267
+Robot fitness: 0.008974
+Robot fitness: 0.005234
+Robot fitness: 0.020214
+Robot fitness: 0.005109
+Robot fitness: 0.007718
+Robot fitness: 0.013968
+Robot fitness: 0.014397
+Robot fitness: 0.045736
+Robot fitness: 0.007006
+Robot fitness: 0.017282
+Robot fitness: 0.015229
+Robot fitness: 0.031158
+Robot fitness: 0.034221
+Robot fitness: 0.007877
+Robot fitness: 0.012252
+Robot fitness: 0.013239
+Robot fitness: 0.043463
+Robot fitness: 0.019274
+Robot fitness: 0.007425
+Robot fitness: 0.007446
+Robot fitness: 0.007112
+Robot fitness: 0.030218
+Robot fitness: 0.015402
+Robot fitness: 0.006342
+Robot fitness: 0.014569
+Robot fitness: 0.026354
+Robot fitness: 0.026831
+Robot fitness: 0.020366
+Robot fitness: 0.009922
+Robot fitness: 0.032711
+Robot fitness: 0.030009
+Robot fitness: 0.032457
+Robot fitness: 0.027140
+Robot fitness: 0.021226
+Robot fitness: 0.017264
+Robot fitness: 0.006244
+Robot fitness: 0.008171
+Robot fitness: 0.017258
+Robot fitness: 0.007215
+Robot fitness: 0.007066
+Robot fitness: 0.042397
+Robot fitness: 0.021108
+Robot fitness: 0.014038
+Robot fitness: 0.009741
+Robot fitness: 0.011590
+Robot fitness: 0.007685
+Robot fitness: 0.020870
+Robot fitness: 0.029663
+Robot fitness: 0.007331
+Robot fitness: 0.015070
+Robot fitness: 0.016351
+Robot fitness: 0.015326
+Robot fitness: 0.016383
+Robot fitness: 0.006209
+Robot fitness: 0.014032
+Robot fitness: 0.009960
+Robot fitness: 0.015465
+Robot fitness: 0.018854
+Robot fitness: 0.007356
+Robot fitness: 0.005788
+Robot fitness: 0.004875
+Robot fitness: 0.007438
+Robot fitness: 0.005511
+Robot fitness: 0.007273
+Robot fitness: 0.007340
+Robot fitness: 0.006895
+Robot fitness: 0.006892
+Robot fitness: 0.007137
+Robot fitness: 0.007274
+Robot fitness: 0.007041
+Robot fitness: 0.007054
+Robot fitness: 0.007197
+Robot fitness: 0.007266
+Robot fitness: 0.007375
+Robot fitness: 0.007451
+Robot fitness: 0.007330
+Robot fitness: 0.007175
+Robot fitness: 0.006506
+Robot fitness: 0.006131
+Robot fitness: 0.007205
+Robot fitness: 0.007389
+Robot fitness: 0.007714
+Robot fitness: 0.006982
+Robot fitness: 0.019115
+Robot fitness: 0.009279
+Robot fitness: 0.012986
+Robot fitness: 0.039128
+Robot fitness: 0.006742
+Robot fitness: 0.007120
+Robot fitness: 0.006994
+Robot fitness: 0.006995
+Robot fitness: 0.007312
+Robot fitness: 0.006989
+Robot fitness: 0.007069
+Robot fitness: 0.007240
+Robot fitness: 0.006831
+Robot fitness: 0.007038
+Robot fitness: 0.007052
+Robot fitness: 0.007119
+Robot fitness: 0.007309
+Robot fitness: 0.007627
+Robot fitness: 0.007654
+Robot fitness: 0.007418
+Robot fitness: 0.006704
+Robot fitness: 0.006903
+Robot fitness: 0.007147
+Robot fitness: 0.007588
+Robot fitness: 0.007313
+Robot fitness: 0.007378
+Robot fitness: 0.006974
+Robot fitness: 0.007094
+Robot fitness: 0.007085
+Robot fitness: 0.006684
+Robot fitness: 0.015782
+Robot fitness: 0.016146
+Robot fitness: 0.019204
+Robot fitness: 0.037258
+Robot fitness: 0.018122
+Robot fitness: 0.032437
+Robot fitness: 0.006576
+Robot fitness: 0.007130
+Robot fitness: 0.007349
+Robot fitness: 0.007500
+Robot fitness: 0.007532
+Robot fitness: 0.007415
+Robot fitness: 0.007223
+Robot fitness: 0.007305
+Robot fitness: 0.007474
+Robot fitness: 0.007810
+Robot fitness: 0.007381
+Robot fitness: 0.021172
+Robot fitness: 0.028639
+Robot fitness: 0.032522
+Robot fitness: 0.007370
+Robot fitness: 0.006670
+Robot fitness: 0.013162
+Robot fitness: 0.013450
+Robot fitness: 0.023343
+Robot fitness: 0.014799
+Robot fitness: 0.007136
+Robot fitness: 0.016723
+Robot fitness: 0.011923
+Robot fitness: 0.005963
+Robot fitness: 0.006586
+Robot fitness: 0.009877
+Robot fitness: 0.026721
+Robot fitness: 0.029706
+Robot fitness: 0.013679
+Robot fitness: 0.009794
+Robot fitness: 0.013781
+Robot fitness: 0.008204
+Robot fitness: 0.006383
+Robot fitness: 0.010501
+Robot fitness: 0.010858
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 563 )
+Evaluating gait, fitness = 0.0756712
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 564 )
+Evaluating gait, fitness = 0.0086835
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 565 )
+Evaluating gait, fitness = 0.0170058
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 566 )
+Evaluating gait, fitness = 0.0869512
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 567 )
+Evaluating gait, fitness = 0.0547403
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 568 )
+Evaluating gait, fitness = 0.0162901
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 569 )
+Evaluating gait, fitness = 0.0889528
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 570 )
+Evaluating gait, fitness = 0.0149982
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 571 )
+Evaluating gait, fitness = 0.0155191
+Number of Species: 1
+Generation 57: overall_average = 0.00425035
+20 generations since last population fitness record: 0.212616
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 572 )
+Evaluating gait, fitness = 0.0162876
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 573 )
+Evaluating gait, fitness = 0.0163524
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 574 )
+Evaluating gait, fitness = 0.0235311
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 575 )
+Evaluating gait, fitness = 0.0571379
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 576 )
+Evaluating gait, fitness = 0.0970145
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 577 )
+Evaluating gait, fitness = 0.0163675
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 578 )
+Evaluating gait, fitness = 0.0483707
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 579 )
+Evaluating gait, fitness = 0.0552453
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 580 )
+Evaluating gait, fitness = 0.0191434
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 581 )
+Evaluating gait, fitness = 0.0195294
+Number of Species: 1
+Generation 58: overall_average = 0.0036898
+1 generations since last population fitness record: 0.212616
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 582 )
+Evaluating gait, fitness = 0.0194547
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 583 )
+Evaluating gait, fitness = 0.123148
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 584 )
+Evaluating gait, fitness = 0.0510779
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 585 )
+Evaluating gait, fitness = 0.0692785
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 586 )
+Evaluating gait, fitness = 0.12243
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 587 )
+Evaluating gait, fitness = 0.0111626
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 588 )
+Evaluating gait, fitness = 0.0236208
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 589 )
+Evaluating gait, fitness = 0.0265406
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 590 )
+Evaluating gait, fitness = 0.0427002
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 591 )
+Evaluating gait, fitness = 0.0436652
+Number of Species: 1
+Generation 59: overall_average = 0.00533078
+2 generations since last population fitness record: 0.212616
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 592 )
+Evaluating gait, fitness = 0.163418
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 593 )
+Evaluating gait, fitness = 0.0524952
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 594 )
+Evaluating gait, fitness = 0.0995629
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 595 )
+Evaluating gait, fitness = 0.0212218
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 596 )
+Evaluating gait, fitness = 0.104007
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 597 )
+Evaluating gait, fitness = 0.112607
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 598 )
+Evaluating gait, fitness = 0.0561378
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 599 )
+Evaluating gait, fitness = 0.119478
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 600 )
+Evaluating gait, fitness = 0.0382835
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 601 )
+Evaluating gait, fitness = 0.0892711
+Number of Species: 1
+Generation 60: overall_average = 8.56482e-05
+3 generations since last population fitness record: 0.212616
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 602 )
+Evaluating gait, fitness = 0.0678147
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 603 )
+Evaluating gait, fitness = 0.0442905
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 604 )
+Evaluating gait, fitness = 0.0258707
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 605 )
+Evaluating gait, fitness = 0.0226299
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 606 )
+Evaluating gait, fitness = 0.0292446
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 607 )
+Evaluating gait, fitness = 0.0527489
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 608 )
+Evaluating gait, fitness = 0.136096
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 609 )
+Evaluating gait, fitness = 0.161608
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 610 )
+Evaluating gait, fitness = 0.257733
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 611 )
+Evaluating gait, fitness = 0.17033
+Number of Species: 1
+Generation 61: overall_average = 9.68367e-05
+NEW POPULATION RECORD FITNESS: 0.257733, delta=0.0451171 @ gen=61
+phase PRUNE @ gen 62
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 612 )
+Evaluating gait, fitness = 0.280574
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 613 )
+Evaluating gait, fitness = 0.0297676
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 614 )
+Evaluating gait, fitness = 0.0303521
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 615 )
+Evaluating gait, fitness = 0.105529
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 616 )
+Evaluating gait, fitness = 0.0161569
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 617 )
+Evaluating gait, fitness = 0.0170565
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 618 )
+Evaluating gait, fitness = 0.00133245
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 619 )
+Evaluating gait, fitness = 0.0893047
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 620 )
+Evaluating gait, fitness = 0.058472
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 621 )
+Evaluating gait, fitness = 0.00778952
+Number of Species: 1
+Generation 62: overall_average = 6.36335e-05
+NEW POPULATION RECORD FITNESS: 0.280574, delta=0.0228408 @ gen=62
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 622 )
+Evaluating gait, fitness = 0.0959996
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 623 )
+Evaluating gait, fitness = 0.116923
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 624 )
+Evaluating gait, fitness = 0.106134
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 625 )
+Evaluating gait, fitness = 0.123512
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 626 )
+Evaluating gait, fitness = 0.0504035
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 627 )
+Evaluating gait, fitness = 0.0333772
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 628 )
+Evaluating gait, fitness = 0.0146396
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 629 )
+Evaluating gait, fitness = 0.0168024
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 630 )
+Evaluating gait, fitness = 0.0176453
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 631 )
+Evaluating gait, fitness = 0.0940455
+Number of Species: 2
+Generation 63: overall_average = 0.010676
+1 generations since last population fitness record: 0.280574
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 632 )
+Evaluating gait, fitness = 0.0937443
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 633 )
+Evaluating gait, fitness = 0.010169
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 634 )
+Evaluating gait, fitness = 0.0174505
+Robot fitness: 0.015523
+Robot fitness: 0.016174
+Robot fitness: 0.009625
+Robot fitness: 0.008791
+Robot fitness: 0.005544
+Robot fitness: 0.007421
+Robot fitness: 0.006924
+Robot fitness: 0.042315
+Robot fitness: 0.009203
+Robot fitness: 0.010749
+Robot fitness: 0.017601
+Robot fitness: 0.006557
+Robot fitness: 0.008692
+Robot fitness: 0.015908
+Robot fitness: 0.042767
+Robot fitness: 0.008231
+Robot fitness: 0.006489
+Robot fitness: 0.006800
+Robot fitness: 0.006353
+Robot fitness: 0.006852
+Robot fitness: 0.006588
+Robot fitness: 0.006692
+Robot fitness: 0.006477
+Robot fitness: 0.006866
+Robot fitness: 0.006679
+Robot fitness: 0.006812
+Robot fitness: 0.013103
+Robot fitness: 0.006510
+Robot fitness: 0.003944
+Robot fitness: 0.015240
+Robot fitness: 0.015660
+Robot fitness: 0.036305
+Robot fitness: 0.013453
+Robot fitness: 0.006655
+Robot fitness: 0.006629
+Robot fitness: 0.006735
+Robot fitness: 0.008893
+Robot fitness: 0.016036
+Robot fitness: 0.020839
+Robot fitness: 0.007206
+Robot fitness: 0.006826
+Robot fitness: 0.007332
+Robot fitness: 0.007607
+Robot fitness: 0.007292
+Robot fitness: 0.006996
+Robot fitness: 0.007035
+Robot fitness: 0.007261
+Robot fitness: 0.015655
+Robot fitness: 0.024845
+Robot fitness: 0.020840
+Robot fitness: 0.012247
+Robot fitness: 0.015008
+Robot fitness: 0.023624
+Robot fitness: 0.007031
+Robot fitness: 0.030930
+Robot fitness: 0.025834
+Robot fitness: 0.017024
+Robot fitness: 0.006372
+Robot fitness: 0.013500
+Robot fitness: 0.004786
+Robot fitness: 0.005771
+Robot fitness: 0.013559
+Robot fitness: 0.006894
+Robot fitness: 0.021670
+Robot fitness: 0.006081
+Robot fitness: 0.004424
+Robot fitness: 0.023927
+Robot fitness: 0.007188
+Robot fitness: 0.009332
+Robot fitness: 0.039501
+Robot fitness: 0.030063
+Robot fitness: 0.017502
+Robot fitness: 0.009910
+Robot fitness: 0.014096
+Robot fitness: 0.028345
+Robot fitness: 0.012617
+Robot fitness: 0.011121
+Robot fitness: 0.008541
+Robot fitness: 0.024077
+Robot fitness: 0.020080
+Robot fitness: 0.027719
+Robot fitness: 0.024639
+Robot fitness: 0.028803
+Robot fitness: 0.014339
+Robot fitness: 0.012984
+Robot fitness: 0.012315
+Robot fitness: 0.031520
+Robot fitness: 0.013734
+Robot fitness: 0.008255
+Robot fitness: 0.007257
+Robot fitness: 0.034300
+Robot fitness: 0.008443
+Robot fitness: 0.022178
+Robot fitness: 0.013057
+Robot fitness: 0.026213
+Robot fitness: 0.009504
+Robot fitness: 0.006560
+Robot fitness: 0.013305
+Robot fitness: 0.010138
+Robot fitness: 0.013179
+Robot fitness: 0.006278
+Robot fitness: 0.007354
+Robot fitness: 0.011669
+Robot fitness: 0.008762
+Robot fitness: 0.008698
+Robot fitness: 0.020300
+Robot fitness: 0.016813
+Robot fitness: 0.027866
+Robot fitness: 0.015141
+Robot fitness: 0.031847
+Robot fitness: 0.024952
+Robot fitness: 0.038794
+Robot fitness: 0.039950
+Robot fitness: 0.038678
+Robot fitness: 0.052521
+Robot fitness: 0.028691
+Robot fitness: 0.060072
+Robot fitness: 0.046263
+Robot fitness: 0.028699
+Robot fitness: 0.014577
+Robot fitness: 0.009444
+Robot fitness: 0.009581
+Robot fitness: 0.006286
+Robot fitness: 0.021535
+Robot fitness: 0.031545
+Robot fitness: 0.010399
+Robot fitness: 0.007121
+Robot fitness: 0.006989
+Robot fitness: 0.006465
+Robot fitness: 0.007223
+Robot fitness: 0.009074
+Robot fitness: 0.009202
+Robot fitness: 0.009273
+Robot fitness: 0.016856
+Robot fitness: 0.026818
+Robot fitness: 0.010548
+Robot fitness: 0.015426
+Robot fitness: 0.015679
+Robot fitness: 0.013000
+Robot fitness: 0.006025
+Robot fitness: 0.011943
+Robot fitness: 0.020258
+Robot fitness: 0.027693
+Robot fitness: 0.027650
+Robot fitness: 0.014659
+Robot fitness: 0.027343
+Robot fitness: 0.029350
+Robot fitness: 0.020208
+Robot fitness: 0.020316
+Robot fitness: 0.009526
+Robot fitness: 0.006847
+Robot fitness: 0.004812
+Robot fitness: 0.007241
+Robot fitness: 0.006353
+Robot fitness: 0.006918
+Robot fitness: 0.007533
+Robot fitness: 0.007878
+Robot fitness: 0.006342
+Robot fitness: 0.006780
+Robot fitness: 0.007014
+Robot fitness: 0.007052
+Robot fitness: 0.019836
+Robot fitness: 0.019629
+Robot fitness: 0.009675
+Robot fitness: 0.008016
+Robot fitness: 0.020574
+Robot fitness: 0.020071
+Robot fitness: 0.006813
+Robot fitness: 0.006894
+Robot fitness: 0.006985
+Robot fitness: 0.007015
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 635 )
+Evaluating gait, fitness = 0.0176437
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 636 )
+Evaluating gait, fitness = 0.00927231
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 637 )
+Evaluating gait, fitness = 0.00326535
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 638 )
+Evaluating gait, fitness = 0.0165629
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 639 )
+Evaluating gait, fitness = 0.0170449
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 640 )
+Evaluating gait, fitness = 0.0411594
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 641 )
+Evaluating gait, fitness = 0.154192
+Number of Species: 1
+Generation 64: overall_average = 0.00380504
+2 generations since last population fitness record: 0.280574
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 642 )
+Evaluating gait, fitness = 0.0982811
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 643 )
+Evaluating gait, fitness = 0.0239219
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 644 )
+Evaluating gait, fitness = 0.118354
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 645 )
+Evaluating gait, fitness = 0.0200826
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 646 )
+Evaluating gait, fitness = 0.0325036
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 647 )
+Evaluating gait, fitness = 0.100491
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 648 )
+Evaluating gait, fitness = 0.0082535
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 649 )
+Evaluating gait, fitness = 0.0986068
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 650 )
+Evaluating gait, fitness = 0.107797
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 651 )
+Evaluating gait, fitness = 0.0163904
+Number of Species: 1
+Generation 65: overall_average = 0.00624682
+3 generations since last population fitness record: 0.280574
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 652 )
+Evaluating gait, fitness = 0.129096
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 653 )
+Evaluating gait, fitness = 0.023151
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 654 )
+Evaluating gait, fitness = 0.150743
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 655 )
+Evaluating gait, fitness = 0.00675355
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 656 )
+Evaluating gait, fitness = 0.0148215
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 657 )
+Evaluating gait, fitness = 0.048613
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 658 )
+Evaluating gait, fitness = 0.0509019
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 659 )
+Evaluating gait, fitness = 0.0779985
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 660 )
+Evaluating gait, fitness = 0.0327221
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 661 )
+Evaluating gait, fitness = 0.0876541
+Number of Species: 1
+Generation 66: overall_average = 0.00622455
+4 generations since last population fitness record: 0.280574
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 662 )
+Evaluating gait, fitness = 0.0971398
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 663 )
+Evaluating gait, fitness = 0.00705925
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 664 )
+Evaluating gait, fitness = 0.107984
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 665 )
+Evaluating gait, fitness = 0.0148678
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 666 )
+Evaluating gait, fitness = 0.0148889
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 667 )
+Evaluating gait, fitness = 0.0172535
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 668 )
+Evaluating gait, fitness = 0.0168657
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 669 )
+Evaluating gait, fitness = 0.0613783
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 670 )
+Evaluating gait, fitness = 0.0673458
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 671 )
+Evaluating gait, fitness = 0.0147725
+Number of Species: 1
+Generation 67: overall_average = 0.00419555
+5 generations since last population fitness record: 0.280574
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 672 )
+Evaluating gait, fitness = 0.0784953
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 673 )
+Evaluating gait, fitness = 0.0511677
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 674 )
+Evaluating gait, fitness = 0.0508766
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 675 )
+Evaluating gait, fitness = 0.0407033
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 676 )
+Evaluating gait, fitness = 0.0617957
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 677 )
+Evaluating gait, fitness = 0.0206018
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 678 )
+Evaluating gait, fitness = 0.0567175
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 679 )
+Evaluating gait, fitness = 0.0173066
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 680 )
+Evaluating gait, fitness = 0.017706
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 681 )
+Evaluating gait, fitness = 0.0169727
+Number of Species: 2
+Generation 68: overall_average = 0.00611996
+6 generations since last population fitness record: 0.280574
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 682 )
+Evaluating gait, fitness = 0.097057
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 683 )
+Evaluating gait, fitness = 0.0353392
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 684 )
+Evaluating gait, fitness = 0.0745928
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 685 )
+Evaluating gait, fitness = 0.0203979
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 686 )
+Evaluating gait, fitness = 0.0264993
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 687 )
+Evaluating gait, fitness = 0.0705621
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 688 )
+Evaluating gait, fitness = 0.0162061
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 689 )
+Evaluating gait, fitness = 0.0165041
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 690 )
+Evaluating gait, fitness = 0.0167919
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 691 )
+Evaluating gait, fitness = 0.017149
+Number of Species: 2
+Generation 69: overall_average = 0.00654799
+7 generations since last population fitness record: 0.280574
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 692 )
+Evaluating gait, fitness = 0.114621
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 693 )
+Evaluating gait, fitness = 0.0243988
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 694 )
+Evaluating gait, fitness = 0.095878
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 695 )
+Evaluating gait, fitness = 0.0356457
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 696 )
+Evaluating gait, fitness = 0.032044
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 697 )
+Evaluating gait, fitness = 0.0598749
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 698 )
+Evaluating gait, fitness = 0.0148322
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 699 )
+Evaluating gait, fitness = 0.0160818
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 700 )
+Evaluating gait, fitness = 0.00724943
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 701 )
+Evaluating gait, fitness = 0.0159525
+Number of Species: 2
+Generation 70: overall_average = 0.0060773
+8 generations since last population fitness record: 0.280574
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 702 )
+Evaluating gait, fitness = 0.105564
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 703 )
+Evaluating gait, fitness = 0.0652293
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 704 )
+Evaluating gait, fitness = 0.07772
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 705 )
+Evaluating gait, fitness = 0.0243999
+Robot fitness: 0.007418
+Robot fitness: 0.006962
+Robot fitness: 0.011336
+Robot fitness: 0.008705
+Robot fitness: 0.007821
+Robot fitness: 0.006136
+Robot fitness: 0.004650
+Robot fitness: 0.006838
+Robot fitness: 0.006611
+Robot fitness: 0.006728
+Robot fitness: 0.006781
+Robot fitness: 0.006935
+Robot fitness: 0.017736
+Robot fitness: 0.020904
+Robot fitness: 0.016980
+Robot fitness: 0.036299
+Robot fitness: 0.036318
+Robot fitness: 0.031885
+Robot fitness: 0.020647
+Robot fitness: 0.018885
+Robot fitness: 0.010401
+Robot fitness: 0.007691
+Robot fitness: 0.019978
+Robot fitness: 0.025016
+Robot fitness: 0.017646
+Robot fitness: 0.018724
+Robot fitness: 0.015038
+Robot fitness: 0.005580
+Robot fitness: 0.010523
+Robot fitness: 0.011053
+Robot fitness: 0.032357
+Robot fitness: 0.022648
+Robot fitness: 0.006076
+Robot fitness: 0.010884
+Robot fitness: 0.017813
+Robot fitness: 0.014298
+Robot fitness: 0.028826
+Robot fitness: 0.019086
+Robot fitness: 0.019279
+Robot fitness: 0.006379
+Robot fitness: 0.006943
+Robot fitness: 0.005495
+Robot fitness: 0.036142
+Robot fitness: 0.030636
+Robot fitness: 0.006820
+Robot fitness: 0.007394
+Robot fitness: 0.023647
+Robot fitness: 0.035407
+Robot fitness: 0.023598
+Robot fitness: 0.007534
+Robot fitness: 0.006609
+Robot fitness: 0.006702
+Robot fitness: 0.006450
+Robot fitness: 0.019482
+Robot fitness: 0.012760
+Robot fitness: 0.021371
+Robot fitness: 0.006786
+Robot fitness: 0.008070
+Robot fitness: 0.016760
+Robot fitness: 0.019060
+Robot fitness: 0.011356
+Robot fitness: 0.010985
+Robot fitness: 0.007971
+Robot fitness: 0.025699
+Robot fitness: 0.011566
+Robot fitness: 0.013675
+Robot fitness: 0.027194
+Robot fitness: 0.017622
+Robot fitness: 0.006540
+Robot fitness: 0.006922
+Robot fitness: 0.016118
+Robot fitness: 0.030926
+Robot fitness: 0.019836
+Robot fitness: 0.006383
+Robot fitness: 0.006977
+Robot fitness: 0.006278
+Robot fitness: 0.006610
+Robot fitness: 0.006466
+Robot fitness: 0.006627
+Robot fitness: 0.006852
+Robot fitness: 0.010660
+Robot fitness: 0.009376
+Robot fitness: 0.020663
+Robot fitness: 0.012524
+Robot fitness: 0.032014
+Robot fitness: 0.008073
+Robot fitness: 0.006651
+Robot fitness: 0.006861
+Robot fitness: 0.006573
+Robot fitness: 0.009256
+Robot fitness: 0.035284
+Robot fitness: 0.011362
+Robot fitness: 0.028046
+Robot fitness: 0.006804
+Robot fitness: 0.011925
+Robot fitness: 0.015827
+Robot fitness: 0.009684
+Robot fitness: 0.007375
+Robot fitness: 0.011483
+Robot fitness: 0.014979
+Robot fitness: 0.014175
+Robot fitness: 0.012415
+Robot fitness: 0.008676
+Robot fitness: 0.030812
+Robot fitness: 0.006535
+Robot fitness: 0.007067
+Robot fitness: 0.006993
+Robot fitness: 0.006951
+Robot fitness: 0.007131
+Robot fitness: 0.006964
+Robot fitness: 0.007308
+Robot fitness: 0.006823
+Robot fitness: 0.006741
+Robot fitness: 0.022486
+Robot fitness: 0.025634
+Robot fitness: 0.021263
+Robot fitness: 0.009913
+Robot fitness: 0.046218
+Robot fitness: 0.014213
+Robot fitness: 0.007025
+Robot fitness: 0.007613
+Robot fitness: 0.007437
+Robot fitness: 0.017249
+Robot fitness: 0.009610
+Robot fitness: 0.013235
+Robot fitness: 0.034162
+Robot fitness: 0.006324
+Robot fitness: 0.006679
+Robot fitness: 0.006953
+Robot fitness: 0.006535
+Robot fitness: 0.006840
+Robot fitness: 0.006855
+Robot fitness: 0.006542
+Robot fitness: 0.006876
+Robot fitness: 0.006913
+Robot fitness: 0.006977
+Robot fitness: 0.007091
+Robot fitness: 0.016454
+Robot fitness: 0.024903
+Robot fitness: 0.017967
+Robot fitness: 0.014660
+Robot fitness: 0.008558
+Robot fitness: 0.012384
+Robot fitness: 0.027533
+Robot fitness: 0.026536
+Robot fitness: 0.007445
+Robot fitness: 0.008061
+Robot fitness: 0.007474
+Robot fitness: 0.017469
+Robot fitness: 0.032258
+Robot fitness: 0.007577
+Robot fitness: 0.006582
+Robot fitness: 0.006647
+Robot fitness: 0.006513
+Robot fitness: 0.006780
+Robot fitness: 0.006775
+Robot fitness: 0.009272
+Robot fitness: 0.004895
+Robot fitness: 0.010088
+Robot fitness: 0.007436
+Robot fitness: 0.006727
+Robot fitness: 0.013542
+Robot fitness: 0.020641
+Robot fitness: 0.027420
+Robot fitness: 0.012477
+Robot fitness: 0.016257
+Robot fitness: 0.009614
+Robot fitness: 0.031602
+Robot fitness: 0.016908
+Robot fitness: 0.013571
+Robot fitness: 0.004604
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 706 )
+Evaluating gait, fitness = 0.0727694
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 707 )
+Evaluating gait, fitness = 0.202387
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 708 )
+Evaluating gait, fitness = 0.0926433
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 709 )
+Evaluating gait, fitness = 0.0772188
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 710 )
+Evaluating gait, fitness = 0.0318136
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 711 )
+Evaluating gait, fitness = 0.102519
+Number of Species: 2
+Generation 71: overall_average = 0.0185824
+9 generations since last population fitness record: 0.280574
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 712 )
+Evaluating gait, fitness = 0.049285
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 713 )
+Evaluating gait, fitness = 0.0612814
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 714 )
+Evaluating gait, fitness = 0.135689
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 715 )
+Evaluating gait, fitness = 0.0128445
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 716 )
+Evaluating gait, fitness = 0.110776
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 717 )
+Evaluating gait, fitness = 0.0159289
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 718 )
+Evaluating gait, fitness = 0.0310581
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 719 )
+Evaluating gait, fitness = 0.0950315
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 720 )
+Evaluating gait, fitness = 0.0415667
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 721 )
+Evaluating gait, fitness = 0.0123749
+Number of Species: 2
+Generation 72: overall_average = 0.0115898
+10 generations since last population fitness record: 0.280574
+phase COMPLEXIFY @ gen 73
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 722 )
+Evaluating gait, fitness = 0.0413645
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 723 )
+Evaluating gait, fitness = 0.113325
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 724 )
+Evaluating gait, fitness = 0.112027
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 725 )
+Evaluating gait, fitness = 0.0245161
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 726 )
+Evaluating gait, fitness = 0.036642
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 727 )
+Evaluating gait, fitness = 0.0498168
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 728 )
+Evaluating gait, fitness = 0.0492123
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 729 )
+Evaluating gait, fitness = 0.201191
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 730 )
+Evaluating gait, fitness = 0.0641136
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 731 )
+Evaluating gait, fitness = 0.0244344
+Number of Species: 2
+Generation 73: overall_average = 0.0143328
+11 generations since last population fitness record: 0.280574
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 732 )
+Evaluating gait, fitness = 0.0396411
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 733 )
+Evaluating gait, fitness = 0.0124401
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 734 )
+Evaluating gait, fitness = 0.0598571
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 735 )
+Evaluating gait, fitness = 0.0530284
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 736 )
+Evaluating gait, fitness = 0.188587
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 737 )
+Evaluating gait, fitness = 0.0621487
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 738 )
+Evaluating gait, fitness = 0.0516611
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 739 )
+Evaluating gait, fitness = 0.183724
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 740 )
+Evaluating gait, fitness = 0.124162
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 741 )
+Evaluating gait, fitness = 0.105908
+Number of Species: 2
+Generation 74: overall_average = 0.0160607
+12 generations since last population fitness record: 0.280574
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 742 )
+Evaluating gait, fitness = 0.0292643
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 743 )
+Evaluating gait, fitness = 0.0282199
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 744 )
+Evaluating gait, fitness = 0.172132
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 745 )
+Evaluating gait, fitness = 0.092804
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 746 )
+Evaluating gait, fitness = 0.0854243
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 747 )
+Evaluating gait, fitness = 0.0230726
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 748 )
+Evaluating gait, fitness = 0.011789
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 749 )
+Evaluating gait, fitness = 0.0638262
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 750 )
+Evaluating gait, fitness = 0.136689
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 751 )
+Evaluating gait, fitness = 0.0620011
+Number of Species: 2
+Generation 75: overall_average = 0.0109709
+13 generations since last population fitness record: 0.280574
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 752 )
+Evaluating gait, fitness = 0.0246109
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 753 )
+Evaluating gait, fitness = 0.0240985
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 754 )
+Evaluating gait, fitness = 0.133886
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 755 )
+Evaluating gait, fitness = 0.038595
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 756 )
+Evaluating gait, fitness = 0.0121869
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 757 )
+Evaluating gait, fitness = 0.112607
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 758 )
+Evaluating gait, fitness = 0.159255
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 759 )
+Evaluating gait, fitness = 0.155106
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 760 )
+Evaluating gait, fitness = 0.089323
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 761 )
+Evaluating gait, fitness = 0.108447
+Number of Species: 2
+Generation 76: overall_average = 0.012553
+14 generations since last population fitness record: 0.280574
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 762 )
+Evaluating gait, fitness = 0.0370968
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 763 )
+Evaluating gait, fitness = 0.160023
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 764 )
+Evaluating gait, fitness = 0.108131
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 765 )
+Evaluating gait, fitness = 0.0417203
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 766 )
+Evaluating gait, fitness = 0.178184
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 767 )
+Evaluating gait, fitness = 0.192645
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 768 )
+Evaluating gait, fitness = 0.136149
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 769 )
+Evaluating gait, fitness = 0.105467
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 770 )
+Evaluating gait, fitness = 0.105122
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 771 )
+Evaluating gait, fitness = 0.0950464
+Number of Species: 2
+Generation 77: overall_average = 0.0161818
+15 generations since last population fitness record: 0.280574
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 772 )
+Evaluating gait, fitness = 0.0451102
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 773 )
+Evaluating gait, fitness = 0.0214298
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 774 )
+Evaluating gait, fitness = 0.123491
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 775 )
+Evaluating gait, fitness = 0.159113
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 776 )
+Evaluating gait, fitness = 0.118912
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 777 )
+Evaluating gait, fitness = 0.165868
+Robot fitness: 0.017181
+Robot fitness: 0.016112
+Robot fitness: 0.101191
+Robot fitness: 0.006738
+Robot fitness: 0.007106
+Robot fitness: 0.024659
+Robot fitness: 0.019625
+Robot fitness: 0.025331
+Robot fitness: 0.017530
+Robot fitness: 0.020862
+Robot fitness: 0.008216
+Robot fitness: 0.014617
+Robot fitness: 0.022191
+Robot fitness: 0.022524
+Robot fitness: 0.021631
+Robot fitness: 0.007709
+Robot fitness: 0.009528
+Robot fitness: 0.025713
+Robot fitness: 0.012612
+Robot fitness: 0.034518
+Robot fitness: 0.027235
+Robot fitness: 0.016864
+Robot fitness: 0.007794
+Robot fitness: 0.017832
+Robot fitness: 0.021313
+Robot fitness: 0.023910
+Robot fitness: 0.011431
+Robot fitness: 0.007774
+Robot fitness: 0.033654
+Robot fitness: 0.008415
+Robot fitness: 0.011669
+Robot fitness: 0.035408
+Robot fitness: 0.008387
+Robot fitness: 0.016974
+Robot fitness: 0.006107
+Robot fitness: 0.010082
+Robot fitness: 0.007676
+Robot fitness: 0.010787
+Robot fitness: 0.020371
+Robot fitness: 0.005731
+Robot fitness: 0.007562
+Robot fitness: 0.019421
+Robot fitness: 0.027706
+Robot fitness: 0.022049
+Robot fitness: 0.021609
+Robot fitness: 0.016080
+Robot fitness: 0.006028
+Robot fitness: 0.005691
+Robot fitness: 0.013438
+Robot fitness: 0.010410
+Robot fitness: 0.029007
+Robot fitness: 0.020728
+Robot fitness: 0.015046
+Robot fitness: 0.012848
+Robot fitness: 0.017579
+Robot fitness: 0.035378
+Robot fitness: 0.050243
+Robot fitness: 0.006983
+Robot fitness: 0.006404
+Robot fitness: 0.007040
+Robot fitness: 0.012761
+Robot fitness: 0.008891
+Robot fitness: 0.005994
+Robot fitness: 0.007543
+Robot fitness: 0.006006
+Robot fitness: 0.009757
+Robot fitness: 0.017581
+Robot fitness: 0.010231
+Robot fitness: 0.029152
+Robot fitness: 0.006764
+Robot fitness: 0.015215
+Robot fitness: 0.029809
+Robot fitness: 0.035831
+Robot fitness: 0.016227
+Robot fitness: 0.017173
+Robot fitness: 0.032103
+Robot fitness: 0.008298
+Robot fitness: 0.007074
+Robot fitness: 0.041848
+Robot fitness: 0.037704
+Robot fitness: 0.010045
+Robot fitness: 0.037738
+Robot fitness: 0.016729
+Robot fitness: 0.022986
+Robot fitness: 0.018912
+Robot fitness: 0.013487
+Robot fitness: 0.007655
+Robot fitness: 0.020505
+Robot fitness: 0.007416
+Robot fitness: 0.018098
+Robot fitness: 0.032207
+Robot fitness: 0.034036
+Robot fitness: 0.018329
+Robot fitness: 0.027286
+Robot fitness: 0.025632
+Robot fitness: 0.024864
+Robot fitness: 0.014628
+Robot fitness: 0.013030
+Robot fitness: 0.007348
+Robot fitness: 0.011297
+Robot fitness: 0.017056
+Robot fitness: 0.005205
+Robot fitness: 0.017065
+Robot fitness: 0.014045
+Robot fitness: 0.033462
+Robot fitness: 0.022102
+Robot fitness: 0.016501
+Robot fitness: 0.024701
+Robot fitness: 0.019329
+Robot fitness: 0.006214
+Robot fitness: 0.007338
+Robot fitness: 0.008008
+Robot fitness: 0.007850
+Robot fitness: 0.026668
+Robot fitness: 0.027278
+Robot fitness: 0.012076
+Robot fitness: 0.012006
+Robot fitness: 0.009178
+Robot fitness: 0.006566
+Robot fitness: 0.008601
+Robot fitness: 0.017099
+Robot fitness: 0.016057
+Robot fitness: 0.025415
+Robot fitness: 0.035297
+Robot fitness: 0.024926
+Robot fitness: 0.027336
+Robot fitness: 0.033511
+Robot fitness: 0.010090
+Robot fitness: 0.031977
+Robot fitness: 0.008544
+Robot fitness: 0.022190
+Robot fitness: 0.021012
+Robot fitness: 0.016476
+Robot fitness: 0.009895
+Robot fitness: 0.012326
+Robot fitness: 0.033681
+Robot fitness: 0.028086
+Robot fitness: 0.033364
+Robot fitness: 0.020304
+Robot fitness: 0.010555
+Robot fitness: 0.012096
+Robot fitness: 0.031278
+Robot fitness: 0.028640
+Robot fitness: 0.025544
+Robot fitness: 0.041165
+Robot fitness: 0.031163
+Robot fitness: 0.027214
+Robot fitness: 0.017734
+Robot fitness: 0.030358
+Robot fitness: 0.024385
+Robot fitness: 0.022612
+Robot fitness: 0.019265
+Robot fitness: 0.021338
+Robot fitness: 0.015686
+Robot fitness: 0.025555
+Robot fitness: 0.011467
+Robot fitness: 0.009810
+Robot fitness: 0.009133
+Robot fitness: 0.007990
+Robot fitness: 0.007611
+Robot fitness: 0.020554
+Robot fitness: 0.023816
+Robot fitness: 0.025053
+Robot fitness: 0.025106
+Robot fitness: 0.033320
+Robot fitness: 0.026452
+Robot fitness: 0.025156
+Robot fitness: 0.034005
+Robot fitness: 0.022881
+Robot fitness: 0.031278
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 778 )
+Evaluating gait, fitness = 0.0892204
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 779 )
+Evaluating gait, fitness = 0.201998
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 780 )
+Evaluating gait, fitness = 0.178379
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 781 )
+Evaluating gait, fitness = 0.14541
+Number of Species: 2
+Generation 78: overall_average = 0.0181069
+16 generations since last population fitness record: 0.280574
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 782 )
+Evaluating gait, fitness = 0.0342583
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 783 )
+Evaluating gait, fitness = 0.163989
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 784 )
+Evaluating gait, fitness = 0.349278
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 785 )
+Evaluating gait, fitness = 0.0216241
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 786 )
+Evaluating gait, fitness = 0.337543
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 787 )
+Evaluating gait, fitness = 0.125259
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 788 )
+Evaluating gait, fitness = 0.23428
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 789 )
+Evaluating gait, fitness = 0.0210398
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 790 )
+Evaluating gait, fitness = 0.240232
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 791 )
+Evaluating gait, fitness = 0.160997
+Number of Species: 2
+Generation 79: overall_average = 0.0218063
+NEW POPULATION RECORD FITNESS: 0.349278, delta=0.0687041 @ gen=79
+phase PRUNE @ gen 80
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 792 )
+Evaluating gait, fitness = 0.043057
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 793 )
+Evaluating gait, fitness = 0.29903
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 794 )
+Evaluating gait, fitness = 0.0256358
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 795 )
+Evaluating gait, fitness = 0.0519747
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 796 )
+Evaluating gait, fitness = 0.165479
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 797 )
+Evaluating gait, fitness = 0.0983257
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 798 )
+Evaluating gait, fitness = 0.0961072
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 799 )
+Evaluating gait, fitness = 0.347516
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 800 )
+Evaluating gait, fitness = 0.0994835
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 801 )
+Evaluating gait, fitness = 0.0212477
+Number of Species: 2
+Generation 80: overall_average = 0.0176924
+1 generations since last population fitness record: 0.349278
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 802 )
+Evaluating gait, fitness = 0.0129676
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 803 )
+Evaluating gait, fitness = 0.0177842
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 804 )
+Evaluating gait, fitness = 0.0306944
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 805 )
+Evaluating gait, fitness = 0.236604
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 806 )
+Evaluating gait, fitness = 0.340878
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 807 )
+Evaluating gait, fitness = 0.158528
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 808 )
+Evaluating gait, fitness = 0.013828
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 809 )
+Evaluating gait, fitness = 0.0259055
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 810 )
+Evaluating gait, fitness = 0.0178462
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 811 )
+Evaluating gait, fitness = 0.278914
+Number of Species: 2
+Generation 81: overall_average = 0.0153276
+2 generations since last population fitness record: 0.349278
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 812 )
+Evaluating gait, fitness = 0.00704859
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 813 )
+Evaluating gait, fitness = 0.398292
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 814 )
+Evaluating gait, fitness = 0.0896215
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 815 )
+Evaluating gait, fitness = 0.0155014
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 816 )
+Evaluating gait, fitness = 0.200849
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 817 )
+Evaluating gait, fitness = 0.0149899
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 818 )
+Evaluating gait, fitness = 0.0310866
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 819 )
+Evaluating gait, fitness = 0.0212327
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 820 )
+Evaluating gait, fitness = 0.019666
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 821 )
+Evaluating gait, fitness = 0.152426
+Number of Species: 2
+Generation 82: overall_average = 0.01119
+NEW POPULATION RECORD FITNESS: 0.398292, delta=0.0490144 @ gen=82
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 822 )
+Evaluating gait, fitness = 0.0214695
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 823 )
+Evaluating gait, fitness = 0.0193248
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 824 )
+Evaluating gait, fitness = 0.0637394
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 825 )
+Evaluating gait, fitness = 0.0370279
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 826 )
+Evaluating gait, fitness = 0.441215
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 827 )
+Evaluating gait, fitness = 0.0687004
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 828 )
+Evaluating gait, fitness = 0.245892
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 829 )
+Evaluating gait, fitness = 0.170338
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 830 )
+Evaluating gait, fitness = 0.201488
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 831 )
+Evaluating gait, fitness = 0.0532812
+Number of Species: 2
+Generation 83: overall_average = 0.0365512
+NEW POPULATION RECORD FITNESS: 0.441215, delta=0.0429227 @ gen=83
+phase COMPLEXIFY @ gen 84
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 832 )
+Evaluating gait, fitness = 0.234445
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 833 )
+Evaluating gait, fitness = 0.0305523
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 834 )
+Evaluating gait, fitness = 0.037604
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 835 )
+Evaluating gait, fitness = 0.193318
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 836 )
+Evaluating gait, fitness = 0.0308728
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 837 )
+Evaluating gait, fitness = 0.25084
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 838 )
+Evaluating gait, fitness = 0.137341
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 839 )
+Evaluating gait, fitness = 0.0486032
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 840 )
+Evaluating gait, fitness = 0.204373
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 841 )
+Evaluating gait, fitness = 0.0246015
+Number of Species: 2
+Generation 84: overall_average = 0.0228003
+1 generations since last population fitness record: 0.441215
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 842 )
+Evaluating gait, fitness = 0.429188
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 843 )
+Evaluating gait, fitness = 0.413655
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 844 )
+Evaluating gait, fitness = 0.205972
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 845 )
+Evaluating gait, fitness = 0.427504
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 846 )
+Evaluating gait, fitness = 0.238594
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 847 )
+Evaluating gait, fitness = 0.205484
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 848 )
+Evaluating gait, fitness = 0.238561
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 849 )
+Evaluating gait, fitness = 0.0920967
+Robot fitness: 0.018978
+Robot fitness: 0.033765
+Robot fitness: 0.040049
+Robot fitness: 0.036366
+Robot fitness: 0.041126
+Robot fitness: 0.024637
+Robot fitness: 0.024084
+Robot fitness: 0.029795
+Robot fitness: 0.027933
+Robot fitness: 0.009818
+Robot fitness: 0.019429
+Robot fitness: 0.027967
+Robot fitness: 0.031367
+Robot fitness: 0.036716
+Robot fitness: 0.061717
+Robot fitness: 0.064031
+Robot fitness: 0.017055
+Robot fitness: 0.011560
+Robot fitness: 0.043039
+Robot fitness: 0.062797
+Robot fitness: 0.061255
+Robot fitness: 0.026015
+Robot fitness: 0.022366
+Robot fitness: 0.044128
+Robot fitness: 0.041705
+Robot fitness: 0.029258
+Robot fitness: 0.011649
+Robot fitness: 0.012348
+Robot fitness: 0.064006
+Robot fitness: 0.038760
+Robot fitness: 0.029725
+Robot fitness: 0.037213
+Robot fitness: 0.010368
+Robot fitness: 0.014712
+Robot fitness: 0.020251
+Robot fitness: 0.057079
+Robot fitness: 0.052127
+Robot fitness: 0.015310
+Robot fitness: 0.008397
+Robot fitness: 0.027568
+Robot fitness: 0.013430
+Robot fitness: 0.007827
+Robot fitness: 0.036844
+Robot fitness: 0.032724
+Robot fitness: 0.021945
+Robot fitness: 0.021074
+Robot fitness: 0.022726
+Robot fitness: 0.017748
+Robot fitness: 0.028803
+Robot fitness: 0.051490
+Robot fitness: 0.070027
+Robot fitness: 0.043261
+Robot fitness: 0.022835
+Robot fitness: 0.027656
+Robot fitness: 0.013399
+Robot fitness: 0.007853
+Robot fitness: 0.006583
+Robot fitness: 0.008243
+Robot fitness: 0.006538
+Robot fitness: 0.007853
+Robot fitness: 0.007498
+Robot fitness: 0.010723
+Robot fitness: 0.007331
+Robot fitness: 0.045122
+Robot fitness: 0.037777
+Robot fitness: 0.040156
+Robot fitness: 0.057763
+Robot fitness: 0.080545
+Robot fitness: 0.033300
+Robot fitness: 0.044264
+Robot fitness: 0.014721
+Robot fitness: 0.008085
+Robot fitness: 0.018039
+Robot fitness: 0.022756
+Robot fitness: 0.011536
+Robot fitness: 0.013647
+Robot fitness: 0.007275
+Robot fitness: 0.012504
+Robot fitness: 0.049139
+Robot fitness: 0.052770
+Robot fitness: 0.007952
+Robot fitness: 0.008948
+Robot fitness: 0.041101
+Robot fitness: 0.066839
+Robot fitness: 0.077053
+Robot fitness: 0.016038
+Robot fitness: 0.010727
+Robot fitness: 0.012684
+Robot fitness: 0.004487
+Robot fitness: 0.021387
+Robot fitness: 0.036641
+Robot fitness: 0.043751
+Robot fitness: 0.014783
+Robot fitness: 0.007524
+Robot fitness: 0.009270
+Robot fitness: 0.008754
+Robot fitness: 0.009274
+Robot fitness: 0.007575
+Robot fitness: 0.007892
+Robot fitness: 0.007813
+Robot fitness: 0.006904
+Robot fitness: 0.042171
+Robot fitness: 0.012581
+Robot fitness: 0.024169
+Robot fitness: 0.007709
+Robot fitness: 0.008650
+Robot fitness: 0.007244
+Robot fitness: 0.007059
+Robot fitness: 0.008679
+Robot fitness: 0.009882
+Robot fitness: 0.019691
+Robot fitness: 0.008785
+Robot fitness: 0.011469
+Robot fitness: 0.079309
+Robot fitness: 0.080589
+Robot fitness: 0.034115
+Robot fitness: 0.028379
+Robot fitness: 0.034061
+Robot fitness: 0.047710
+Robot fitness: 0.035934
+Robot fitness: 0.023085
+Robot fitness: 0.042975
+Robot fitness: 0.037683
+Robot fitness: 0.031066
+Robot fitness: 0.036938
+Robot fitness: 0.005540
+Robot fitness: 0.027289
+Robot fitness: 0.055918
+Robot fitness: 0.034893
+Robot fitness: 0.028336
+Robot fitness: 0.012717
+Robot fitness: 0.007224
+Robot fitness: 0.009110
+Robot fitness: 0.009319
+Robot fitness: 0.030511
+Robot fitness: 0.049524
+Robot fitness: 0.020836
+Robot fitness: 0.007194
+Robot fitness: 0.016232
+Robot fitness: 0.033754
+Robot fitness: 0.066011
+Robot fitness: 0.034934
+Robot fitness: 0.025801
+Robot fitness: 0.037223
+Robot fitness: 0.013983
+Robot fitness: 0.017952
+Robot fitness: 0.047086
+Robot fitness: 0.042892
+Robot fitness: 0.013651
+Robot fitness: 0.004771
+Robot fitness: 0.040040
+Robot fitness: 0.071915
+Robot fitness: 0.084136
+Robot fitness: 0.083803
+Robot fitness: 0.068878
+Robot fitness: 0.053898
+Robot fitness: 0.029733
+Robot fitness: 0.064344
+Robot fitness: 0.078083
+Robot fitness: 0.074172
+Robot fitness: 0.039028
+Robot fitness: 0.041209
+Robot fitness: 0.043534
+Robot fitness: 0.039348
+Robot fitness: 0.052261
+Robot fitness: 0.040451
+Robot fitness: 0.034325
+Robot fitness: 0.015015
+Robot fitness: 0.022734
+Robot fitness: 0.023819
+Robot fitness: 0.010379
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 850 )
+Evaluating gait, fitness = 0.0726009
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 851 )
+Evaluating gait, fitness = 0.0457343
+Number of Species: 2
+Generation 85: overall_average = 0.0517925
+2 generations since last population fitness record: 0.441215
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 852 )
+Evaluating gait, fitness = 0.280175
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 853 )
+Evaluating gait, fitness = 0.0578565
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 854 )
+Evaluating gait, fitness = 0.392926
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 855 )
+Evaluating gait, fitness = 0.455646
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 856 )
+Evaluating gait, fitness = 0.0374548
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 857 )
+Evaluating gait, fitness = 0.124861
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 858 )
+Evaluating gait, fitness = 0.0240786
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 859 )
+Evaluating gait, fitness = 0.011692
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 860 )
+Evaluating gait, fitness = 0.223998
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 861 )
+Evaluating gait, fitness = 0.20031
+Number of Species: 2
+Generation 86: overall_average = 0.0341476
+NEW POPULATION RECORD FITNESS: 0.455646, delta=0.0144313 @ gen=86
+phase PRUNE @ gen 87
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 862 )
+Evaluating gait, fitness = 0.460192
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 863 )
+Evaluating gait, fitness = 0.411947
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 864 )
+Evaluating gait, fitness = 0.407378
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 865 )
+Evaluating gait, fitness = 0.377697
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 866 )
+Evaluating gait, fitness = 0.059069
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 867 )
+Evaluating gait, fitness = 0.20849
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 868 )
+Evaluating gait, fitness = 0.0179374
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 869 )
+Evaluating gait, fitness = 0.191899
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 870 )
+Evaluating gait, fitness = 0.0565563
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 871 )
+Evaluating gait, fitness = 0.0858656
+Number of Species: 2
+Generation 87: overall_average = 0.0455406
+NEW POPULATION RECORD FITNESS: 0.460192, delta=0.00454563 @ gen=87
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 872 )
+Evaluating gait, fitness = 0.409107
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 873 )
+Evaluating gait, fitness = 0.0316781
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 874 )
+Evaluating gait, fitness = 0.0262801
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 875 )
+Evaluating gait, fitness = 0.0219697
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 876 )
+Evaluating gait, fitness = 0.0664765
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 877 )
+Evaluating gait, fitness = 0.0719222
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 878 )
+Evaluating gait, fitness = 0.0182321
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 879 )
+Evaluating gait, fitness = 0.021896
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 880 )
+Evaluating gait, fitness = 0.151391
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 881 )
+Evaluating gait, fitness = 0.108504
+Number of Species: 2
+Generation 88: overall_average = 0.0213393
+1 generations since last population fitness record: 0.460192
+phase COMPLEXIFY @ gen 89
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 882 )
+Evaluating gait, fitness = 0.0231413
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 883 )
+Evaluating gait, fitness = 0.01817
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 884 )
+Evaluating gait, fitness = 0.0204084
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 885 )
+Evaluating gait, fitness = 0.169415
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 886 )
+Evaluating gait, fitness = 0.0249651
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 887 )
+Evaluating gait, fitness = 0.00145394
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 888 )
+Evaluating gait, fitness = 0.0553686
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 889 )
+Evaluating gait, fitness = 0.132623
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 890 )
+Evaluating gait, fitness = 0.16794
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 891 )
+Evaluating gait, fitness = 0.313563
+Number of Species: 2
+Generation 89: overall_average = 0.0144192
+2 generations since last population fitness record: 0.460192
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 892 )
+Evaluating gait, fitness = 0.0248281
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 893 )
+Evaluating gait, fitness = 0.207561
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 894 )
+Evaluating gait, fitness = 0.0730927
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 895 )
+Evaluating gait, fitness = 0.197491
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 896 )
+Evaluating gait, fitness = 0.128275
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 897 )
+Evaluating gait, fitness = 0.159846
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 898 )
+Evaluating gait, fitness = 0.127972
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 899 )
+Evaluating gait, fitness = 0.215603
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 900 )
+Evaluating gait, fitness = 0.244922
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 901 )
+Evaluating gait, fitness = 0.0395811
+Number of Species: 2
+Generation 90: overall_average = 0.0155175
+3 generations since last population fitness record: 0.460192
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 902 )
+Evaluating gait, fitness = 0.141925
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 903 )
+Evaluating gait, fitness = 0.17389
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 904 )
+Evaluating gait, fitness = 0.0336669
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 905 )
+Evaluating gait, fitness = 0.141301
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 906 )
+Evaluating gait, fitness = 0.124621
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 907 )
+Evaluating gait, fitness = 0.144664
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 908 )
+Evaluating gait, fitness = 0.187573
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 909 )
+Evaluating gait, fitness = 0.0519875
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 910 )
+Evaluating gait, fitness = 0.283215
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 911 )
+Evaluating gait, fitness = 0.162263
+Number of Species: 1
+Generation 91: overall_average = 0.0144511
+4 generations since last population fitness record: 0.460192
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 912 )
+Evaluating gait, fitness = 0.102374
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 913 )
+Evaluating gait, fitness = 0.247902
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 914 )
+Evaluating gait, fitness = 0.0797582
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 915 )
+Evaluating gait, fitness = 0.311529
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 916 )
+Evaluating gait, fitness = 0.0446027
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 917 )
+Evaluating gait, fitness = 0.113123
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 918 )
+Evaluating gait, fitness = 0.243385
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 919 )
+Evaluating gait, fitness = 0.019157
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 920 )
+Evaluating gait, fitness = 0.0222215
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 921 )
+Evaluating gait, fitness = 0.0248534
+Number of Species: 1
+Generation 92: overall_average = 0.0120891
+5 generations since last population fitness record: 0.460192
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 922 )
+Evaluating gait, fitness = 0.191179
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 923 )
+Evaluating gait, fitness = 0.16472
+Robot fitness: 0.028741
+Robot fitness: 0.008051
+Robot fitness: 0.008645
+Robot fitness: 0.071495
+Robot fitness: 0.051992
+Robot fitness: 0.032931
+Robot fitness: 0.007685
+Robot fitness: 0.036803
+Robot fitness: 0.081255
+Robot fitness: 0.054126
+Robot fitness: 0.090104
+Robot fitness: 0.079289
+Robot fitness: 0.031438
+Robot fitness: 0.007850
+Robot fitness: 0.022488
+Robot fitness: 0.027011
+Robot fitness: 0.022826
+Robot fitness: 0.012643
+Robot fitness: 0.005619
+Robot fitness: 0.006935
+Robot fitness: 0.006236
+Robot fitness: 0.005966
+Robot fitness: 0.057999
+Robot fitness: 0.038118
+Robot fitness: 0.045671
+Robot fitness: 0.035671
+Robot fitness: 0.064526
+Robot fitness: 0.093130
+Robot fitness: 0.068915
+Robot fitness: 0.085792
+Robot fitness: 0.073655
+Robot fitness: 0.068649
+Robot fitness: 0.082616
+Robot fitness: 0.056915
+Robot fitness: 0.093745
+Robot fitness: 0.067519
+Robot fitness: 0.009938
+Robot fitness: 0.006541
+Robot fitness: 0.016790
+Robot fitness: 0.042890
+Robot fitness: 0.039470
+Robot fitness: 0.016448
+Robot fitness: 0.008407
+Robot fitness: 0.047725
+Robot fitness: 0.033567
+Robot fitness: 0.012796
+Robot fitness: 0.018421
+Robot fitness: 0.035921
+Robot fitness: 0.013730
+Robot fitness: 0.015932
+Robot fitness: 0.086209
+Robot fitness: 0.083818
+Robot fitness: 0.011013
+Robot fitness: 0.008383
+Robot fitness: 0.008210
+Robot fitness: 0.006763
+Robot fitness: 0.009704
+Robot fitness: 0.007631
+Robot fitness: 0.008161
+Robot fitness: 0.023071
+Robot fitness: 0.013573
+Robot fitness: 0.015876
+Robot fitness: 0.021669
+Robot fitness: 0.010493
+Robot fitness: 0.006214
+Robot fitness: 0.008076
+Robot fitness: 0.007169
+Robot fitness: 0.008316
+Robot fitness: 0.005999
+Robot fitness: 0.038098
+Robot fitness: 0.028398
+Robot fitness: 0.021997
+Robot fitness: 0.020697
+Robot fitness: 0.024141
+Robot fitness: 0.014264
+Robot fitness: 0.006630
+Robot fitness: 0.006953
+Robot fitness: 0.007428
+Robot fitness: 0.007362
+Robot fitness: 0.007551
+Robot fitness: 0.016134
+Robot fitness: 0.036914
+Robot fitness: 0.042978
+Robot fitness: 0.005488
+Robot fitness: 0.005559
+Robot fitness: 0.017539
+Robot fitness: 0.014435
+Robot fitness: 0.007142
+Robot fitness: 0.013298
+Robot fitness: 0.005979
+Robot fitness: 0.019900
+Robot fitness: 0.028207
+Robot fitness: 0.026276
+Robot fitness: 0.032719
+Robot fitness: 0.031728
+Robot fitness: 0.062896
+Robot fitness: 0.053446
+Robot fitness: 0.014927
+Robot fitness: 0.010085
+Robot fitness: 0.027646
+Robot fitness: 0.024021
+Robot fitness: 0.051001
+Robot fitness: 0.009926
+Robot fitness: 0.016124
+Robot fitness: 0.030159
+Robot fitness: 0.047703
+Robot fitness: 0.027606
+Robot fitness: 0.025065
+Robot fitness: 0.034396
+Robot fitness: 0.043789
+Robot fitness: 0.022042
+Robot fitness: 0.018137
+Robot fitness: 0.027251
+Robot fitness: 0.029351
+Robot fitness: 0.040682
+Robot fitness: 0.048995
+Robot fitness: 0.041945
+Robot fitness: 0.047157
+Robot fitness: 0.020509
+Robot fitness: 0.007032
+Robot fitness: 0.009513
+Robot fitness: 0.031028
+Robot fitness: 0.030531
+Robot fitness: 0.039160
+Robot fitness: 0.040664
+Robot fitness: 0.016511
+Robot fitness: 0.007280
+Robot fitness: 0.013869
+Robot fitness: 0.031005
+Robot fitness: 0.035256
+Robot fitness: 0.020208
+Robot fitness: 0.030584
+Robot fitness: 0.019366
+Robot fitness: 0.040791
+Robot fitness: 0.035270
+Robot fitness: 0.030509
+Robot fitness: 0.036754
+Robot fitness: 0.017674
+Robot fitness: 0.006950
+Robot fitness: 0.041153
+Robot fitness: 0.050234
+Robot fitness: 0.041886
+Robot fitness: 0.036291
+Robot fitness: 0.035500
+Robot fitness: 0.006402
+Robot fitness: 0.030276
+Robot fitness: 0.043919
+Robot fitness: 0.049055
+Robot fitness: 0.034976
+Robot fitness: 0.012992
+Robot fitness: 0.013484
+Robot fitness: 0.054160
+Robot fitness: 0.059495
+Robot fitness: 0.025663
+Robot fitness: 0.006609
+Robot fitness: 0.015153
+Robot fitness: 0.021663
+Robot fitness: 0.033499
+Robot fitness: 0.030629
+Robot fitness: 0.045720
+Robot fitness: 0.005667
+Robot fitness: 0.007067
+Robot fitness: 0.008004
+Robot fitness: 0.007752
+Robot fitness: 0.007484
+Robot fitness: 0.007809
+Robot fitness: 0.008431
+Robot fitness: 0.033529
+Robot fitness: 0.039050
+Robot fitness: 0.038923
+Robot fitness: 0.030900
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 924 )
+Evaluating gait, fitness = 0.153566
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 925 )
+Evaluating gait, fitness = 0.445538
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 926 )
+Evaluating gait, fitness = 0.050064
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 927 )
+Evaluating gait, fitness = 0.220286
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 928 )
+Evaluating gait, fitness = 0.195391
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 929 )
+Evaluating gait, fitness = 0.234455
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 930 )
+Evaluating gait, fitness = 0.194762
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 931 )
+Evaluating gait, fitness = 0.151736
+Number of Species: 1
+Generation 93: overall_average = 0.020017
+6 generations since last population fitness record: 0.460192
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 932 )
+Evaluating gait, fitness = 0.472346
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 933 )
+Evaluating gait, fitness = 0.373119
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 934 )
+Evaluating gait, fitness = 0.0666892
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 935 )
+Evaluating gait, fitness = 0.188953
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 936 )
+Evaluating gait, fitness = 0.00886614
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 937 )
+Evaluating gait, fitness = 0.0181423
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 938 )
+Evaluating gait, fitness = 0.0183835
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 939 )
+Evaluating gait, fitness = 0.209216
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 940 )
+Evaluating gait, fitness = 0.283287
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 941 )
+Evaluating gait, fitness = 0.22401
+Number of Species: 1
+Generation 94: overall_average = 0.0186301
+NEW POPULATION RECORD FITNESS: 0.472346, delta=0.0121537 @ gen=94
+phase PRUNE @ gen 95
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 942 )
+Evaluating gait, fitness = 0.417973
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 943 )
+Evaluating gait, fitness = 0.0429408
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 944 )
+Evaluating gait, fitness = 0.0158492
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 945 )
+Evaluating gait, fitness = 0.0168008
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 946 )
+Evaluating gait, fitness = 0.207064
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 947 )
+Evaluating gait, fitness = 0.0182069
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 948 )
+Evaluating gait, fitness = 0.0185263
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 949 )
+Evaluating gait, fitness = 0.0154319
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 950 )
+Evaluating gait, fitness = 0.126037
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 951 )
+Evaluating gait, fitness = 0.258419
+Number of Species: 1
+Generation 95: overall_average = 0.0113725
+1 generations since last population fitness record: 0.472346
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 952 )
+Evaluating gait, fitness = 0.460606
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 953 )
+Evaluating gait, fitness = 0.0137153
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 954 )
+Evaluating gait, fitness = 0.037339
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 955 )
+Evaluating gait, fitness = 0.0721198
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 956 )
+Evaluating gait, fitness = 0.019348
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 957 )
+Evaluating gait, fitness = 0.302038
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 958 )
+Evaluating gait, fitness = 0.0379461
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 959 )
+Evaluating gait, fitness = 0.0216164
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 960 )
+Evaluating gait, fitness = 0.218963
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 961 )
+Evaluating gait, fitness = 0.0478278
+Number of Species: 1
+Generation 96: overall_average = 0.0123152
+2 generations since last population fitness record: 0.472346
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 962 )
+Evaluating gait, fitness = 0.34677
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 963 )
+Evaluating gait, fitness = 0.474637
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 964 )
+Evaluating gait, fitness = 0.0725854
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 965 )
+Evaluating gait, fitness = 0.318863
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 966 )
+Evaluating gait, fitness = 0.0404414
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 967 )
+Evaluating gait, fitness = 0.374779
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 968 )
+Evaluating gait, fitness = 0.0187073
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 969 )
+Evaluating gait, fitness = 0.329739
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 970 )
+Evaluating gait, fitness = 0.110343
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 971 )
+Evaluating gait, fitness = 0.484853
+Number of Species: 1
+Generation 97: overall_average = 0.0257172
+NEW POPULATION RECORD FITNESS: 0.484853, delta=0.0125075 @ gen=97
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 972 )
+Evaluating gait, fitness = 0.440472
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 973 )
+Evaluating gait, fitness = 0.499989
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 974 )
+Evaluating gait, fitness = 0.0158684
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 975 )
+Evaluating gait, fitness = 0.374809
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 976 )
+Evaluating gait, fitness = 0.0257624
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 977 )
+Evaluating gait, fitness = 0.289051
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 978 )
+Evaluating gait, fitness = 0.43519
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 979 )
+Evaluating gait, fitness = 0.0650315
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 980 )
+Evaluating gait, fitness = 0.153092
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 981 )
+Evaluating gait, fitness = 0.0129104
+Number of Species: 1
+Generation 98: overall_average = 0.0231218
+NEW POPULATION RECORD FITNESS: 0.499989, delta=0.0151356 @ gen=98
+phase COMPLEXIFY @ gen 99
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 982 )
+Evaluating gait, fitness = 0.0801002
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 983 )
+Evaluating gait, fitness = 0.413702
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 984 )
+Evaluating gait, fitness = 0.389031
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 985 )
+Evaluating gait, fitness = 0.0322661
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 986 )
+Evaluating gait, fitness = 0.256812
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 987 )
+Evaluating gait, fitness = 0.0364665
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 988 )
+Evaluating gait, fitness = 0.387167
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 989 )
+Evaluating gait, fitness = 0.0366837
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 990 )
+Evaluating gait, fitness = 0.0200718
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 991 )
+Evaluating gait, fitness = 0.393101
+Number of Species: 1
+Generation 99: overall_average = 0.020454
+1 generations since last population fitness record: 0.499989
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 992 )
+Evaluating gait, fitness = 0.394299
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 993 )
+Evaluating gait, fitness = 0.0722868
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 994 )
+Evaluating gait, fitness = 0.442378
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 995 )
+Evaluating gait, fitness = 0.484821
+Robot fitness: 0.027538
+Robot fitness: 0.036203
+Robot fitness: 0.020048
+Robot fitness: 0.113881
+Robot fitness: 0.052935
+Robot fitness: 0.005293
+Robot fitness: 0.014291
+Robot fitness: 0.027676
+Robot fitness: 0.041410
+Robot fitness: 0.034130
+Robot fitness: 0.040543
+Robot fitness: 0.036714
+Robot fitness: 0.039290
+Robot fitness: 0.044218
+Robot fitness: 0.039455
+Robot fitness: 0.040473
+Robot fitness: 0.035930
+Robot fitness: 0.025855
+Robot fitness: 0.029291
+Robot fitness: 0.087992
+Robot fitness: 0.086102
+Robot fitness: 0.072323
+Robot fitness: 0.066103
+Robot fitness: 0.051416
+Robot fitness: 0.014088
+Robot fitness: 0.018362
+Robot fitness: 0.033019
+Robot fitness: 0.030145
+Robot fitness: 0.036701
+Robot fitness: 0.011666
+Robot fitness: 0.008859
+Robot fitness: 0.005170
+Robot fitness: 0.005991
+Robot fitness: 0.008969
+Robot fitness: 0.007283
+Robot fitness: 0.009478
+Robot fitness: 0.047267
+Robot fitness: 0.040268
+Robot fitness: 0.049087
+Robot fitness: 0.051732
+Robot fitness: 0.045901
+Robot fitness: 0.040830
+Robot fitness: 0.059639
+Robot fitness: 0.078178
+Robot fitness: 0.072137
+Robot fitness: 0.024684
+Robot fitness: 0.007544
+Robot fitness: 0.010765
+Robot fitness: 0.006974
+Robot fitness: 0.006634
+Robot fitness: 0.006837
+Robot fitness: 0.006934
+Robot fitness: 0.027206
+Robot fitness: 0.037570
+Robot fitness: 0.025115
+Robot fitness: 0.006818
+Robot fitness: 0.016560
+Robot fitness: 0.014444
+Robot fitness: 0.006701
+Robot fitness: 0.008994
+Robot fitness: 0.011845
+Robot fitness: 0.016533
+Robot fitness: 0.019591
+Robot fitness: 0.043244
+Robot fitness: 0.053414
+Robot fitness: 0.043366
+Robot fitness: 0.080538
+Robot fitness: 0.063341
+Robot fitness: 0.062818
+Robot fitness: 0.012847
+Robot fitness: 0.007675
+Robot fitness: 0.024836
+Robot fitness: 0.007857
+Robot fitness: 0.007197
+Robot fitness: 0.008225
+Robot fitness: 0.034345
+Robot fitness: 0.007604
+Robot fitness: 0.007454
+Robot fitness: 0.023988
+Robot fitness: 0.068446
+Robot fitness: 0.044391
+Robot fitness: 0.011264
+Robot fitness: 0.016078
+Robot fitness: 0.010810
+Robot fitness: 0.008096
+Robot fitness: 0.019530
+Robot fitness: 0.040052
+Robot fitness: 0.032947
+Robot fitness: 0.017363
+Robot fitness: 0.008777
+Robot fitness: 0.084257
+Robot fitness: 0.058227
+Robot fitness: 0.082083
+Robot fitness: 0.083583
+Robot fitness: 0.062303
+Robot fitness: 0.009910
+Robot fitness: 0.009624
+Robot fitness: 0.054252
+Robot fitness: 0.063466
+Robot fitness: 0.039225
+Robot fitness: 0.007587
+Robot fitness: 0.011455
+Robot fitness: 0.078745
+Robot fitness: 0.068805
+Robot fitness: 0.021108
+Robot fitness: 0.004925
+Robot fitness: 0.065483
+Robot fitness: 0.050061
+Robot fitness: 0.046583
+Robot fitness: 0.026050
+Robot fitness: 0.031548
+Robot fitness: 0.091324
+Robot fitness: 0.081883
+Robot fitness: 0.081899
+Robot fitness: 0.085407
+Robot fitness: 0.098836
+Robot fitness: 0.091841
+Robot fitness: 0.074064
+Robot fitness: 0.009862
+Robot fitness: 0.007609
+Robot fitness: 0.030699
+Robot fitness: 0.087067
+Robot fitness: 0.064184
+Robot fitness: 0.013213
+Robot fitness: 0.007163
+Robot fitness: 0.031566
+Robot fitness: 0.084651
+Robot fitness: 0.072204
+Robot fitness: 0.075072
+Robot fitness: 0.082602
+Robot fitness: 0.005756
+Robot fitness: 0.006809
+Robot fitness: 0.018055
+Robot fitness: 0.026593
+Robot fitness: 0.037578
+Robot fitness: 0.014267
+Robot fitness: 0.007437
+Robot fitness: 0.009498
+Robot fitness: 0.011496
+Robot fitness: 0.061942
+Robot fitness: 0.083115
+Robot fitness: 0.069451
+Robot fitness: 0.059130
+Robot fitness: 0.090682
+Robot fitness: 0.024278
+Robot fitness: 0.006854
+Robot fitness: 0.012455
+Robot fitness: 0.049326
+Robot fitness: 0.057755
+Robot fitness: 0.008163
+Robot fitness: 0.006389
+Robot fitness: 0.047373
+Robot fitness: 0.085602
+Robot fitness: 0.077131
+Robot fitness: 0.006941
+Robot fitness: 0.007193
+Robot fitness: 0.007316
+Robot fitness: 0.007477
+Robot fitness: 0.017411
+Robot fitness: 0.081247
+Robot fitness: 0.079893
+Robot fitness: 0.072323
+Robot fitness: 0.070326
+Robot fitness: 0.043517
+Robot fitness: 0.018152
+Robot fitness: 0.032456
+Robot fitness: 0.074086
+Robot fitness: 0.096870
+Robot fitness: 0.087325
+Robot fitness: 0.096552
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 996 )
+Evaluating gait, fitness = 0.0520297
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 997 )
+Evaluating gait, fitness = 0.419597
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 998 )
+Evaluating gait, fitness = 0.340053
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 999 )
+Evaluating gait, fitness = 0.466827
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 1000 )
+Evaluating gait, fitness = 0.518999
+################# EVALUATING NEW BRAIN !!!!!!!!!!!!!!!!!!!!!!!!! (generation 1001 )
+Evaluating gait, fitness = 0.355786
+Number of Species: 1
+Generation 100: overall_average = 0.0354708
+NEW POPULATION RECORD FITNESS: 0.518999, delta=0.0190102 @ gen=100
+phase PRUNE @ gen 101
+Robot fitness: 0.050717
+Robot fitness: 0.006006
+Robot fitness: 0.019530
+Robot fitness: 0.079547
+Robot fitness: 0.094350
+Robot fitness: 0.071996
+Robot fitness: 0.049216
+Robot fitness: 0.071101
+Robot fitness: 0.092445
+Robot fitness: 0.086721
+Robot fitness: 0.094687
+Robot fitness: 0.099479
+Robot fitness: 0.072603
+Robot fitness: 0.049213
+Robot fitness: 0.069010
+Robot fitness: 0.093991
+Robot fitness: 0.093188
+Got disconnect / connection reset - shutting down.
+Max Evaluations (1000) reached. stopping now.
+Gazebo has exited, restarting experiment...
+Stop condition reached.
+Terminating processes...
+Experiment successful, shutting down.
+Terminating processes...
